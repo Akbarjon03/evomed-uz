@@ -78,7 +78,7 @@
           <div class="col-lg-7">
             <h2>Consequatur eius et magnam</h2>
             <div class="our-story">
-              <h4>Est 1988</h4>
+              <h4>Основана в 1988г.</h4>
               <h3>Our Story</h3>
               <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
               <ul>
@@ -112,7 +112,7 @@
               <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Счастливые клиенты</p>
+                <p>Счастливых клиентов</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -122,7 +122,7 @@
               <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Услуги</p>
+                <p>Услуг</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -142,7 +142,7 @@
               <i class="bi bi-people color-pink flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Врачи</p>
+                <p>Врачей специалистов</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -236,7 +236,7 @@
 
         <div class="section-header">
           <h2>Врачи</h2>
-          <p>Квалифицированные врачи детской клиники Evomed</p>
+          <p>Врачи детской клиники Evomed</p>
         </div>
 
         <div class="row gy-5">
@@ -246,7 +246,7 @@
             </div>
             <div class="member-info text-center">
               <h4>Ташмухамедова Барно Эркиновна</h4>
-              <p>Наша главная врач, ортопед, неонатолог</p>
+              <p> Главврач, ортопед, неонатолог</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -270,7 +270,7 @@
             </div>
             <div class="member-info text-center">
               <h4>Турсунова Олия Абдурауповна</h4>
-              <p>Квалифицированный педиатр с 26-летним стажем</p>
+              <p>Квалифицированный педиатр с 26-летним опытом</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -290,7 +290,7 @@
             </div>
             <div class="member-info text-center">
               <h4>Шайхова Умида Абдурашидовна</h4>
-              <p>Детский невропатолог, заведующий отделением неврологии</p>
+              <p>Детский невропатолог, заведующая отделения неврологии</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -300,7 +300,7 @@
             </div>
             <div class="member-info text-center">
               <h4>Амонов Бахром Халикулович</h4>
-              <p>Ортопед-травматолог нашей детской клиники</p>
+              <p>Ортопед-травматолог</p>
             </div>
           </div><!-- End Team Member -->
 
