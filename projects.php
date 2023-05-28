@@ -78,8 +78,6 @@
             <li data-filter="*" class="filter-active">Диагностика 1</li>
             <li data-filter=".filter-remodeling">Диагностика 2</li>
             <li data-filter=".filter-construction">Диагностика 3</li>
-            <li data-filter=".filter-repairs">Диагностика 4</li>
-            <li data-filter=".filter-design">Диагностика 5</li>
           </ul><!-- End Projects Filters -->
 
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">

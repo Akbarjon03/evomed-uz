@@ -115,62 +115,6 @@
                   Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
                 </p>
               </div>
-
-            </div>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">August 05</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-
-                <h3 class="post-title">Non rem rerum nam cum quo minus. Dolor distinctio deleniti explicabo eius exercitationem.</h3>
-                <p>
-                  Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.
-                </p>
-              </div>
-
-            </div>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">September 17</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-
-                <h3 class="post-title">Accusamus quaerat aliquam qui debitis facilis consequatur</h3>
-                <p>
-                  In itaque assumenda aliquam voluptatem qui temporibus iusto nisi quia. Autem vitae quas aperiam nesciunt mollitia tempora odio omnis. Ipsa odit sit ut amet necessitatibus. Quo ullam ut corrupti autem consequuntur totam dolorem.
-                </p>
-              </div>
-            </div>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">December 07</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-
-                <h3 class="post-title">Distinctio provident quibusdam numquam aperiam aut</h3>
-                <p>
-                  Expedita et temporibus eligendi enim molestiae est architecto praesentium dolores. Illo laboriosam officiis quis. Labore officia quia sit voluptatem nisi est dignissimos totam. Et voluptate et consectetur voluptatem id dolor magni impedit. Omnis dolores sit.
-                </p>
-              </div>
             </div>
           </div><!-- End post list item -->
         </div><!-- End blog posts list -->
