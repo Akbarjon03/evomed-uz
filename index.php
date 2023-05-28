@@ -542,7 +542,7 @@
                 data-bs-toggle="tab"
                 data-bs-target="#tab-1"
               >
-                <h4>ДИАГНОСТИКА</h4>
+                <h4>Психологическая диагностика</h4>
               </a>
             </li>
             <!-- End tab nav item -->
@@ -576,26 +576,21 @@
                   data-aos="fade-up"
                   data-aos-delay="100"
                 >
-                  <h3>Voluptatem dignissimos provident</h3>
+                  <h3>Психологическая диагностика</h3>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Диагностика детей позволяет всесторонне оценить личность ребёнка, 
+                    его индивидуальные особенности, характер, темперамент и своевременно выявить сложности в психическом развитии. 
+                    Психодиагностика включает в себя:
                   </p>
                   <ul>
                     <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
+                      <i class="bi bi-check2-all"></i> Предварительная консультация специалиста (беседа).
                     </li>
                     <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
+                      <i class="bi bi-check2-all"></i> Собственно психодиагностика.
                     </li>
                     <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
+                      <i class="bi bi-check2-all"></i> Консультация психолога по результатам обследования с выдачей рекомендаций и письменного заключения
                     </li>
                   </ul>
                 </div>
@@ -760,7 +755,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Жасмина</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -770,10 +765,10 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Proin iaculis purus consequat sem cure digni ssim donec
-                      porttitora entum suscipit rhoncus. Accusantium quam,
-                      ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                      risus at semper.
+                      Barno Erkinovna manam szi cin dildan yaxwi koraman maniyam qizimi tuzatgansiz 
+                      avvalo hamasi Alloxdan sizi sababci qlb ucratgan bzaga 
+                      5balnitsada qaragandiz kop esliman szi kim bolasiga doxtr qdrsa 
+                      srazu qorqmasdan szi etaman umrizga rizqizga Allox baraka bersin qalbi toza mexribon opajonim
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -789,7 +784,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Мафтуна Омониллаева</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -799,10 +794,11 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Export tempor illum tamen malis malis eram quae irure esse
-                      labore quem cillum quid cillum eram malis quorum velit
-                      fore eram velit sunt aliqua noster fugiat irure amet legam
-                      anim culpa.
+                      Assalomu aleykum fidoyi 
+                      insonni alloh mukofotlasin har doim beminnat maslaxatlarini 
+                      ayamaganla Barno Erkinovna qaconki oborsamam qaraberalla telefinda 
+                      sorasamam bolamga tori yonalish berib onlina davoliydilayam bilmiman
+                      bunaqa inson bolish ucun qanaqa qalb va sabr kere rahmat Barnopa borizga shukur
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -818,7 +814,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Мехринисо Арипова</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -828,9 +824,9 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Enim nisi quem export duis labore cillum quae magna enim
-                      sint quorum nulla quem veniam duis minim tempor labore
-                      quem eram duis noster aute amet eram fore quis sint minim.
+                      Умида опа Шайхова жудаям кучли неврапотологлар. 
+                      Ман фарзандларимни уларни куригига обораман ва ишонаман❤️. 
+                      Умрилари узок булсин🤲
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -846,7 +842,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Диэлора Усманова</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -856,10 +852,8 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa
-                      multos export minim fugiat minim velit minim dolor enim
-                      duis veniam ipsum anim magna sunt elit fore quem dolore
-                      labore illum veniam.
+                      Voy mani bolamni oyoĝi oğrirdi. Kôp yurgansan yugurgansan dirdim. Vitamin yetiwmasakande.
+                      Raxmat silaga wunaqa videola qòyvotganilaga. Bilib oldim. Endi tez ortapedga oboraman
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -975,9 +969,10 @@
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
             <div class="content">
-              <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-              <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum nobis ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut delectus dicta.
-              <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+              <h3>Быстрый контакт с Evomed!</h3>
+              <p>
+              Детская клиника - это медицинское учреждение, которое специализируется на диагностике и лечении заболеваний у детей. В детской клинике работают высококвалифицированные специалисты, которые специализируются на разных областях медицины, таких как педиатрия, неврология, офтальмология, аллергология-иммунология и другие.
+              </p>
             </div>
           </div>
 
@@ -1014,7 +1009,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6">
               <div class="footer-info">
-                <h3>Эвомед</h3>
+                <h3>EVOMED</h3>
                 <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
                   Юнусабад, <br />
                   улица Ахмеда Дониша 47а<br /></a><br />
@@ -1101,7 +1096,7 @@
       <div class="footer-legal text-center position-relative">
         <div class="container">
           <div class="copyright">
-            &copy; Авторские права <strong><span>UIS</span></strong
+            &copy; Авторские права <strong><span>EVOMED</span></strong
             >. Все права защищены
           </div>
         </div>
