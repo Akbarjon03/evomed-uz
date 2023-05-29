@@ -542,27 +542,27 @@
                 data-bs-toggle="tab"
                 data-bs-target="#tab-1"
               >
-                <h4>Психологическая диагностика</h4>
+                <h4>ЭЛЕКТРОЭНЦЕФАЛОГРАФИЯ</h4>
               </a>
             </li>
             <!-- End tab nav item -->
 
             <li class="nav-item col-3">
               <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-                <h4>ДИАГНОСТИКА</h4> </a
+                <h4>ЛАБОРАТОРИЯ</h4> </a
               ><!-- End tab nav item -->
             </li>
 
             <li class="nav-item col-3">
               <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-                <h4>ДИАГНОСТИКА</h4>
+                <h4>РЕНТГЕН</h4>
               </a>
             </li>
             <!-- End tab nav item -->
 
             <li class="nav-item col-3">
               <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-                <h4>ДИАГНОСТИКА</h4>
+                <h4>УЗИ</h4>
               </a>
             </li>
             <!-- End tab nav item -->
@@ -576,21 +576,26 @@
                   data-aos="fade-up"
                   data-aos-delay="100"
                 >
-                  <h3>Психологическая диагностика</h3>
+                  <h3>Электроэнцефалография</h3>
                   <p class="fst-italic">
-                    Диагностика детей позволяет всесторонне оценить личность ребёнка, 
-                    его индивидуальные особенности, характер, темперамент и своевременно выявить сложности в психическом развитии. 
-                    Психодиагностика включает в себя:
+                    Один из самых широко применяемых методов диагностики и исследования головного мозга, 
+                    применяемый в современной неврологии и педиатрии. ЭЭГ позволяет проследить за мозговой активностью ребенка, 
+                    оценить функциональные изменения коры головного мозга, подтвердить или опровергнуть наличие поражений и расстройств 
+                    ЦНС (центральной нервной системы).
                   </p>
                   <ul>
                     <li>
-                      <i class="bi bi-check2-all"></i> Предварительная консультация специалиста (беседа).
+                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
+                      aliquip ex ea commodo consequat.
                     </li>
                     <li>
-                      <i class="bi bi-check2-all"></i> Собственно психодиагностика.
+                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
+                      reprehenderit in voluptate velit.
                     </li>
                     <li>
-                      <i class="bi bi-check2-all"></i> Консультация психолога по результатам обследования с выдачей рекомендаций и письменного заключения
+                      <i class="bi bi-check2-all"></i> Provident mollitia neque
+                      rerum asperiores dolores quos qui a. Ipsum neque dolor
+                      voluptate nisi sed.
                     </li>
                   </ul>
                 </div>
@@ -600,7 +605,7 @@
                   data-aos-delay="200"
                 >
                   <img
-                    src="assets/photos/rasm-10.jpg"
+                    src="assets/img/hero-carousel/EEG.jpg"
                     alt=""
                     class="img-fluid"
                   />
@@ -614,7 +619,7 @@
                 <div
                   class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
                 >
-                  <h3>Neque exercitationem debitis</h3>
+                  <h3>Лаборатория</h3>
                   <p class="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
@@ -634,17 +639,11 @@
                       rerum asperiores dolores quos qui a. Ipsum neque dolor
                       voluptate nisi sed.
                     </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
-                    </li>
                   </ul>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 text-center">
                   <img
-                    src="assets/photos/rasm-11.jpg"
+                    src="assets/img/hero-carousel/p423.jpeg"
                     alt=""
                     class="img-fluid"
                   />
@@ -658,7 +657,13 @@
                 <div
                   class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
                 >
-                  <h3>Voluptatibus commodi accusamu</h3>
+                  <h3>Рентген</h3>
+                  <p class="fst-italic">
+                  Рентген по строгим показаниям делают в возрасте с 3 месяцев, 
+                  если нет альтернативных методов, которые можно использовать для диагностики. 
+                  В возрасте до 12 лет рентген детям проводится в присутствии родителей. 
+                  После достижения 18 лет разрешается делать рентген при наличии на это показаний.
+                  </p>
                   <ul>
                     <li>
                       <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
@@ -668,21 +673,11 @@
                       <i class="bi bi-check2-all"></i> Duis aute irure dolor in
                       reprehenderit in voluptate velit.
                     </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Provident mollitia neque
-                      rerum asperiores dolores quos qui a. Ipsum neque dolor
-                      voluptate nisi sed.
-                    </li>
                   </ul>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 text-center">
                   <img
-                    src="assets/photos/rasm-20.jpg"
+                    src="assets/img/hero-carousel/rentgenografiya.jpg"
                     alt=""
                     class="img-fluid"
                   />
@@ -696,32 +691,16 @@
                 <div
                   class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
                 >
-                  <h3>Omnis fugiat ea explicabo sunt</h3>
+                  <h3>Узи</h3>
                   <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                  Узи – один из самых безопасных, доступных и информативных методов диагностики, который применяется в современной педиатрии.
+                  Данный метод основан на свойствах ультразвука отражаться при прохождении границ между различными средами. 
+                  На основании данных, полученных с помощью отраженных волн, создается изображение внутренних органов ребенка, по которому врач может судить об их состоянии.
                   </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
-                    </li>
-                  </ul>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 text-center">
                   <img
-                    src="assets/photos/rasm-25.jpg"
+                    src="assets/img/hero-carousel/uzi.jpg"
                     alt=""
                     class="img-fluid"
                   />
