@@ -75,9 +75,7 @@
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
 
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">Диагностика 1</li>
-            <li data-filter=".filter-remodeling">Диагностика 2</li>
-            <li data-filter=".filter-construction">Диагностика 3</li>
+            <li data-filter="*" class="filter-active">Диагностика</li>
           </ul><!-- End Projects Filters -->
 
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
@@ -85,9 +83,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photo3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photo3.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photo3.jpg" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -96,9 +93,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photo4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photo4.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photo4.jpg" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -107,9 +103,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photob.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photob.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photob.jpg" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -118,9 +113,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photob1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photob1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photob1.jpg" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -129,9 +123,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photp1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photp1.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photp1.jpg" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -140,9 +133,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photp3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photp3.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photp3.jpg" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -151,9 +143,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photo3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photo3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photo3.jpg" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -162,9 +153,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photo4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photo4.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photo4.jpg" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -173,9 +163,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photob.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photob.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photob.jpg" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -184,9 +173,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photp1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photp1.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photp1.jpg" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -195,9 +183,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photo4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photo4.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photo4.jpg" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -206,9 +193,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/hero-carousel/img/photob1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/hero-carousel/img/photob1.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Диагностика</h4>
+                  <a href="assets/img/hero-carousel/img/photob1.jpg" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
@@ -224,104 +210,122 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
-    <div class="footer-content position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>Эвомед</h3>
-              <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                Юнусабад, <br />
-                улица Ахмеда Дониша 47а<br /></a><br />
-                <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a
-                  href="https://www.tiktok.com/@evomed_uz"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-tiktok"></i
-                ></a>
-                <a
-                  href="https://www.facebook.com/evomeduz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-facebook"></i
-                ></a>
-                <a
-                  href="https://www.instagram.com/evomed_uz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-instagram"></i
-                ></a>
-                <a
-                  href="https://www.youtube.com/@evomed_uz8797"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-youtube"></i
-                ></a>
+      <div class="footer-content position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="footer-info">
+                <h3>Evomed</h3>
+                <p>
+                  <a href="https://yandex.com/maps/-/CCUczPrDGD">
+                    Юнусабад, <br />
+                    улица Ахмеда Дониша 47а<br /></a
+                  ><br />
+                  <strong>Номер телефона:</strong
+                  ><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                </p>
+                <div class="social-links d-flex mt-3">
+                  <a
+                    href="https://www.tiktok.com/@evomed_uz"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-tiktok"></i
+                  ></a>
+                  <a
+                    href="https://www.facebook.com/evomeduz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-facebook"></i
+                  ></a>
+                  <a
+                    href="https://www.instagram.com/evomed_uz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-instagram"></i
+                  ></a>
+                  <a
+                    href="https://www.youtube.com/@evomed_uz8797"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-youtube"></i
+                  ></a>
+                </div>
               </div>
             </div>
-          </div>
-          <!-- End footer info column-->
+            <!-- End footer info column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
-            <ul>
-              <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-              <li><a href="./about.php">ВРАЧИ</a></li>
-              <li><a href="./services.php">УСЛУГИ</a></li>
-              <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-              <li><a href="./blog.php">НОВОСТИ</a></li>
-              <li><a href="./contact.php">АДРЕС</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
+              <ul>
+                <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
+                <li><a href="./about.php">ВРАЧИ</a></li>
+                <li><a href="./services.php">УСЛУГИ</a></li>
+                <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
+                <li><a href="./blog.php">НОВОСТИ</a></li>
+                <li><a href="./contact.php">АДРЕС</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>УСЛУГИ</h4>
-            <ul>
-              <li><a href="./services.php">Web Design</a></li>
-              <li><a href="./services.php">Web Development</a></li>
-              <li><a href="./services.php">Product Management</a></li>
-              <li><a href="./services.php">Marketing</a></li>
-              <li><a href="./services.php">Graphic Design</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>УСЛУГИ</h4>
+              <ul>
+                <li><a href="./services.php">Бронхит</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Трахеит</a></li>
+                <li><a href="./services.php">Пневмония</a></li>
+                <li><a href="./services.php">Бронхеолит</a></li>
+                <li><a href="./services.php">Фронтит</a></li>
+                <li><a href="./services.php">Оғиздан нохуш хид келиши</a></li>
+                <li><a href="./services.php">Сурункали тонзиллитни даволаш</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Аллергик тумов</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <ul>
-              <li><a href="./services.php">Molestiae accusamus iure</a></li>
-              <li><a href="./services.php">Excepturi dignissimos</a></li>
-              <li><a href="./services.php">Suscipit distinctio</a></li>
-              <li><a href="./services.php">Dilecta</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гастродуодинит</a></li>
+                <li><a href="./services.php">Гастроэнтероколит</a></li>
+                <li><a href="./services.php">Хронический</a></li>
+                <li><a href="./services.php">Запор</a></li>
+                <li><a href="./services.php">Дисбактериоз</a></li>
+                <li><a href="./services.php">Холецистит</a></li>
+                <li><a href="./services.php">Қулоқ қичиши, битиб қолиши</a></li>
+                <li><a href="./services.php">Йутал</a></li>
+                <li><a href="./services.php">Катталар ва болалар консультацияси</a></li>
+                <li><a href="./services.php">Ясси оёқлилик</a></li>
+                <li><a href="./services.php">Сон чаноқ дисплазияси</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">  
-            <ul>
-              <li><a href="./services.php">Ipsam</a></li>
-              <li><a href="./services.php">Laudantium dolorum</a></li>
-              <li><a href="./services.php">Dinera</a></li>
-              <li><a href="./services.php">Trodelas</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-            </ul>
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гепатит</a></li>
+                <li><a href="./services.php">Пиолонефрит</a></li>
+                <li><a href="./services.php">Токсикодермия</a></li>
+                <li><a href="./services.php">ХОБЛ</a></li>
+                <li><a href="./services.php">Ревматизм</a></li>
+                <li><a href="./services.php">Гайморит</a></li>
+                <li><a href="./services.php">Сон чаноқ бўғимидан чала ва тўлиқ чиқишлар</a></li>
+                <li><a href="./services.php">Рахит (кўкрак қафаси ва оёқларда)</a></li>
+                <li><a href="./services.php">X ёки O образний қийшайишлар</a></li>
+                <li><a href="./services.php">Умуртқа поғонаси қийшайишлари (сколёз, лордоз, кифоз)</a></li>
+                <li><a href="./services.php">Гельминтозы кишечника- лямблиоз, аскаридоз кишечника, энтеробиоз и др</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
           </div>
-          <!-- End footer links column-->
         </div>
       </div>
-    </div>
 
-    <div class="footer-legal text-center position-relative">
-      <div class="container">
-        <div class="copyright">
-          &copy; Авторские права <strong><span>UIS</span></strong
-          >. Все права защищены
+      <div class="footer-legal text-center position-relative">
+        <div class="container">
+          <div class="copyright">
+            &copy; Авторские права <strong><span> EVOMED</span></strong
+            >. Все права защищены
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
+    </footer>
   <!-- End Footer -->
   <a
   href="tel: +998 55 500 3200"

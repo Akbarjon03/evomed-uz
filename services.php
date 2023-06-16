@@ -219,23 +219,31 @@
               data-aos="zoom-in"
               data-aos-delay="100"
             >
-              <h3>Quasi eaque omnis</h3>
-              <p>
-                Eius non minus autem soluta ut ui labore omnis quisquam corrupti
-                autem odit voluptas quos commodi magnam occaecati.
-              </p>
+              <h3>Наши услуги</h3>
               <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ullamco laboris nisi ut aliquip</span>
+                  <span>Бронхит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Duis aute irure dolor in reprehenderit</span>
+                  <span>Ларингит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ullamco laboris nisi ut aliquip ex ea</span>
+                  <span>Трахеит</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Пневмония</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Бронхеолит</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Гастрит</span>
                 </li>
               </ul>
             </div>
@@ -246,25 +254,30 @@
               data-aos="zoom-in"
               data-aos-delay="200"
             >
-              <h3>Et nemo dolores consectetur</h3>
-              <p>
-                Ducimus ea quam et occaecati est. Temporibus in soluta labore
-                voluptates aut. Et sit soluta non repellat sed quia dire plovers
-                tradoria
-              </p>
-
               <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Enim temporibus maiores eligendi</span>
+                  <span>Гастродуодинит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ut maxime ut quibusdam quam qui</span>
+                  <span>Гастроэнтероколит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Officiis aspernatur in officiis</span>
+                  <span>Хронический Запор</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Дисбактериоз</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Холецистит</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Гепатит</span>
                 </li>
               </ul>
             </div>
@@ -275,24 +288,34 @@
               data-aos="zoom-in"
               data-aos-delay="300"
             >
-              <h3>Staque laboriosam modi</h3>
-              <p>
-                Velit eos error et dolor omnis voluptates nobis tenetur sed enim
-                nihil vero qui suscipit ipsum at magni. Ipsa architecto
-                consequatur aliquam
-              </p>
-              <ul class="list-unstyled">
+            <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Quis voluptates laboriosam numquam</span>
+                  <span>Пиолонефрит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Treva libero sunt quis veniam ut</span>
+                  <span>Токсикодермия</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Debitis eos est est corrupti</span>
+                  <span>ХОБЛ</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Острая диарея</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Ревматизм</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Гельминтозы кишечника- лямблиоз</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Гайморит</span>
                 </li>
               </ul>
             </div>
@@ -303,24 +326,34 @@
               data-aos="zoom-in"
               data-aos-delay="400"
             >
-              <h3>Dignissimos suscipit iste</h3>
-              <p>
-                Molestiae occaecati assumenda quia saepe nobis recusandae at
-                dicta ducimus sequi numquam commodi est in consequatur ea magnam
-                quia itaque
-              </p>
               <ul class="list-unstyled">
-                <li>
+              <li>
                   <i class="bi bi-check2"></i>
-                  <span>Veritatis qui reprehenderit quis</span>
+                  <span>Фронтит</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Accusantium vel numquam sunt minus</span>
+                  <span>Оғиздан нохуш хид келиши</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Voluptatem pariatur est sationem</span>
+                  <span>Бурун битиши</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Сурункали тонзиллитни даволаш</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Ангинани даволаш</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Ларингит</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Қулоқдан йиринг оқиши</span>
                 </li>
               </ul>
             </div>
@@ -339,7 +372,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6">
               <div class="footer-info">
-                <h3>Эвомед</h3>
+                <h3>Evomed</h3>
                 <p>
                   <a href="https://yandex.com/maps/-/CCUczPrDGD">
                     Юнусабад, <br />
@@ -390,35 +423,50 @@
             <div class="col-lg-2 col-md-3 footer-links">
               <h4>УСЛУГИ</h4>
               <ul>
-                <li><a href="./services.php">Web Design</a></li>
-                <li><a href="./services.php">Web Development</a></li>
-                <li><a href="./services.php">Product Management</a></li>
-                <li><a href="./services.php">Marketing</a></li>
-                <li><a href="./services.php">Graphic Design</a></li>
+                <li><a href="./services.php">Бронхит</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Трахеит</a></li>
+                <li><a href="./services.php">Пневмония</a></li>
+                <li><a href="./services.php">Бронхеолит</a></li>
+                <li><a href="./services.php">Фронтит</a></li>
+                <li><a href="./services.php">Оғиздан нохуш хид келиши</a></li>
+                <li><a href="./services.php">Сурункали тонзиллитни даволаш</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Аллергик тумов</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
 
             <div class="col-lg-2 col-md-3 footer-links">
               <ul>
-                <li><a href="./services.php">Molestiae accusamus iure</a></li>
-                <li><a href="./services.php">Excepturi dignissimos</a></li>
-                <li><a href="./services.php">Suscipit distinctio</a></li>
-                <li><a href="./services.php">Dilecta</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
+                <li><a href="./services.php">Гастродуодинит</a></li>
+                <li><a href="./services.php">Гастроэнтероколит</a></li>
+                <li><a href="./services.php">Хронический</a></li>
+                <li><a href="./services.php">Запор</a></li>
+                <li><a href="./services.php">Дисбактериоз</a></li>
+                <li><a href="./services.php">Холецистит</a></li>
+                <li><a href="./services.php">Қулоқ қичиши, битиб қолиши</a></li>
+                <li><a href="./services.php">Йутал</a></li>
+                <li><a href="./services.php">Катталар ва болалар консультацияси</a></li>
+                <li><a href="./services.php">Ясси оёқлилик</a></li>
+                <li><a href="./services.php">Сон чаноқ дисплазияси</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
 
             <div class="col-lg-2 col-md-3 footer-links">
               <ul>
-                <li><a href="./services.php">Ipsam</a></li>
-                <li><a href="./services.php">Laudantium dolorum</a></li>
-                <li><a href="./services.php">Dinera</a></li>
-                <li><a href="./services.php">Trodelas</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-                <li><a href="./services.php">Flexo</a></li>
+                <li><a href="./services.php">Гепатит</a></li>
+                <li><a href="./services.php">Пиолонефрит</a></li>
+                <li><a href="./services.php">Токсикодермия</a></li>
+                <li><a href="./services.php">ХОБЛ</a></li>
+                <li><a href="./services.php">Ревматизм</a></li>
+                <li><a href="./services.php">Гайморит</a></li>
+                <li><a href="./services.php">Сон чаноқ бўғимидан чала ва тўлиқ чиқишлар</a></li>
+                <li><a href="./services.php">Рахит (кўкрак қафаси ва оёқларда)</a></li>
+                <li><a href="./services.php">X ёки O образний қийшайишлар</a></li>
+                <li><a href="./services.php">Умуртқа поғонаси қийшайишлари (сколёз, лордоз, кифоз)</a></li>
+                <li><a href="./services.php">Гельминтозы кишечника- лямблиоз, аскаридоз кишечника, энтеробиоз и др</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
@@ -429,7 +477,7 @@
       <div class="footer-legal text-center position-relative">
         <div class="container">
           <div class="copyright">
-            &copy; Авторские права <strong><span>UIS</span></strong
+            &copy; Авторские права <strong><span> EVOMED</span></strong
             >. Все права защищены
           </div>
         </div>

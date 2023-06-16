@@ -80,15 +80,15 @@
           <div class="col-lg-6">
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-geo-alt-fill"></i>
-              <h3>Наш адрес</h3><a href="https://yandex.com/maps/-/CCUczPrDGD">
-              <p>Юнусабад, улица Ахмеда Дониша 47а</p></a>
+              <h3>Bizning manzil</h3><a href="https://yandex.com/maps/-/CCUczPrDGD">
+              <p>Yunusobod, Ahmad Donish ko‘chasi 47a</p></a>
             </div>
           </div><!-- End Info Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telegram"></i>
-              <h3>Телеграмм</h3><a href="https://t.me/evomed_uz_clinika">
+              <h3>Telegram</h3><a href="https://t.me/evomed_uz_clinika">
               <p>Evomed</p></a>
             </div>
           </div><!-- End Info Item -->
@@ -96,7 +96,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone-fill"></i>
-              <h3>Позвоните нам</h3><a href="tel:+998 55 500 3200">
+              <h3>Bizga qo'ng'iroq qiling</h3><a href="tel:+998 55 500 3200">
               <p>+998 55 500 3200</p></a>
             </div>
           </div><!-- End Info Item -->
@@ -111,17 +111,17 @@
             <form method="POST" action="./contct.php" role="form" >
               <div class="row gy-4">
                 <div class="col-lg-6 form-group">
-                  <input type="text" id="name" class="form-control" placeholder="Ваше имя и фамилия" name="name" required>  
+                  <input type="text" id="name" class="form-control" placeholder="Ismingizni yozing" name="name" required>  
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="text" id="phone" class="form-control" placeholder="Ваш номер телефона" name="phone" required><br>
+                  <input type="text" id="phone" class="form-control" placeholder="Telefon raqamingiz" name="phone" required><br>
                 </div>
               </div>
               <div class="form-group">
-                <textarea id="message" class="form-control" rows="5" placeholder="Оставьте свое сообщение" name="message" required></textarea>
+                <textarea id="message" class="form-control" rows="5" placeholder="Xabaringizni yozing" name="message" required></textarea>
               </div><br>
               <div class="text-center">
-                <button type="submit">Отправить сообщение</button>
+                <button type="submit">Xabarni yuborish</button>
               </div>
             </form>
       </div>
@@ -136,11 +136,11 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>Эвомед</h3>
+              <h3>EVOMED</h3>
               <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                Юнусабад, <br />
-                улица Ахмеда Дониша 47а<br /></a><br />
-                <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                Yunusobod, <br />
+                Ahmad Donish 47a<br /></a><br />
+                <strong>Telefon raqam:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
               </p>
               <div class="social-links d-flex mt-3">
                 <a
@@ -169,52 +169,66 @@
           <!-- End footer info column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
+            <h4>FOYDALI LINKLAR</h4>
             <ul>
-              <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-              <li><a href="./about.php">ВРАЧИ</a></li>
-              <li><a href="./services.php">УСЛУГИ</a></li>
-              <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-              <li><a href="./blog.php">НОВОСТИ</a></li>
-              <li><a href="./contact.php">АДРЕС</a></li>
+              <li><a href="./index.php">BOSH SAHIFA</a></li>
+              <li><a href="./about.php">SHIFOKORLAR</a></li>
+              <li><a href="./services.php">XIZMATLAR</a></li>
+              <li><a href="./projects.php">DIAGNOSTIKA</a></li>
+              <li><a href="./blog.php">YANGILIKLAR</a></li>
+              <li><a href="./contact.php">MANZIL</a></li>
             </ul>
           </div>
           <!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>УСЛУГИ</h4>
+            <h4>XIZMATLAR</h4>
             <ul>
-              <li><a href="./services.php">Web Design</a></li>
-              <li><a href="./services.php">Web Development</a></li>
-              <li><a href="./services.php">Product Management</a></li>
-              <li><a href="./services.php">Marketing</a></li>
-              <li><a href="./services.php">Graphic Design</a></li>
+                <li><a href="./services.php">Bronxit</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Traxeit</a></li>
+                <li><a href="./services.php">Zotiljam</a></li>
+                <li><a href="./services.php">Bronxiolit</a></li>
+                <li><a href="./services.php">Frontit</a></li>
+                <li><a href="./services.php">Og'izdan noxush hid kelishi</a></li>
+                <li><a href="./services.php">Surunkali tonzillitni davolash</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Allergik tumov</a></li>
             </ul>
           </div>
           <!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <ul>
-              <li><a href="./services.php">Molestiae accusamus iure</a></li>
-              <li><a href="./services.php">Excepturi dignissimos</a></li>
-              <li><a href="./services.php">Suscipit distinctio</a></li>
-              <li><a href="./services.php">Dilecta</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-            </ul>
-          </div>
+              <ul>
+                <li><a href="./services.php">Gastroduodenit</a></li>
+                <li><a href="./services.php">Gastroenterokolit</a></li>
+                <li><a href="./services.php">Surunkali qabziyat</a></li>
+                <li><a href="./services.php">Disbakterioz</a></li>
+                <li><a href="./services.php">Xoletsistit</a></li>
+                <li><a href="./services.php">Quloq qichishi, bitib qolishi</a></li>
+                <li><a href="./services.php">Yo'tal</a></li>
+                <li><a href="./services.php">Kattalar va bolalar konsultatsiysi</a></li>
+                <li><a href="./services.php">Tassi oyoqlik</a></li>
+                <li><a href="./services.php">Son qanoq displazi</a></li>
+              </ul>
+            </div>
           <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">  
-            <ul>
-              <li><a href="./services.php">Ipsam</a></li>
-              <li><a href="./services.php">Laudantium dolorum</a></li>
-              <li><a href="./services.php">Dinera</a></li>
-              <li><a href="./services.php">Trodelas</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-            </ul>
-          </div>
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gepatit</a></li>
+                <li><a href="./services.php">Piyelonefrit</a></li>
+                <li><a href="./services.php">Toksikoderma</a></li>
+                <li><a href="./services.php">HOBL</a></li>
+                <li><a href="./services.php">Revmatizm</a></li>
+                <li><a href="./services.php">Sinusit</a></li>
+                <li><a href="./services.php">Son chanoq bo'g'imidagi chala va to'liq chiqishlar</a></li>
+                <li><a href="./services.php">Raxit</a></li>
+                <li><a href="./services.php">X yoki O obrazniy qiyshayishlar</a></li>
+                <li><a href="./services.php">Umurtqa pog'onasi qiyshayisi</a></li>
+                <li><a href="./services.php">Ichak gelmintozlari - giardiaz, ichak askariozi, enterobioz va boshqalar</a></li>
+              </ul>
+            </div>
           <!-- End footer links column-->
         </div>
       </div>
@@ -223,8 +237,8 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Авторские права <strong><span>UIS</span></strong
-          >. Все права защищены
+          &copy;Mualliflik huquqi <strong><span>EVOMED</span></strong
+          >. Barcha huquqlar himoyalangan
         </div>
       </div>
     </div>

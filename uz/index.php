@@ -1,11 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <title>Evomed</title>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="Evomed bolalar klinikasi">
+    <meta name="description" content="Pediatr, Nevropatolog, Ortoped, Logoped, Bolalar psixologi, Massaj, Fizioterapiya, EEG, Laboratoriya">
+    <meta name="description" content="Педиатр, Невропатолог, Ортопед, Логопед, Детский психолог, Массаж, Физиотерапия, ЭЭГ, Лаборатория">
+    <meta name="description" content="Pediatr">
+    <meta name="description" content="Педиатр">
+    <meta name="description" content="Nevropatolog">
+    <meta name="description" content="Невропатолог">
+    <meta name="description" content="Ortoped">
+    <meta name="description" content="Ортопед">
+    <meta name="description" content="Logoped">
+    <meta name="description" content="Логопед">
+    <meta name="description" content="Bolalar psixologi">
+    <meta name="description" content="Детский психолог">
+    <meta name="description" content="Bolalar Massaj">
+    <meta name="description" content="детский массаж">
+    <meta name="description" content="Fizioterapiya">
+    <meta name="description" content="Физиотерапия">
+    <meta name="description" content="EEG">
+    <meta name="description" content="ЭЭГ">
+    <meta name="description" content="Laboratoriya">
+    <meta name="description" content="Лаборатория">
     <meta name="keywords" content="Pediatr, Nevropatolog, Ortoped, Logoped, Bolalar psixologi, Massaj, Fizioterapiya, EEG, Laboratoriya">
+    <meta name="keywords" content="Педиатр, Невропатолог, Ортопед, Логопед, Детский психолог, Массаж, Физиотерапия, ЭЭГ, Лаборатория">
+    <meta name="keywords" content="Pediatr">
+    <meta name="keywords" content="Педиатр">
+    <meta name="keywords" content="Nevropatolog">
+    <meta name="keywords" content="Невропатолог">
+    <meta name="keywords" content="Ortoped">
+    <meta name="keywords" content="Ортопед">
+    <meta name="keywords" content="Logoped">
+    <meta name="keywords" content="Логопед">
+    <meta name="keywords" content="Bolalar psixologi">
+    <meta name="keywords" content="Детский психолог">
+    <meta name="keywords" content="Bolalar Massaj">
+    <meta name="keywords" content="детский массаж">
+    <meta name="keywords" content="Fizioterapiya">
+    <meta name="keywords" content="Физиотерапия">
+    <meta name="keywords" content="EEG">
+    <meta name="keywords" content="ЭЭГ">
+    <meta name="keywords" content="Laboratoriya">
+    <meta name="keywords" content="Лаборатория">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="author" content="Evomed Bolalar klinikasi">
     <meta name="generator" content="Custom">
@@ -92,15 +131,14 @@
             <div class="col-lg-6 text-center">
               <h2 data-aos="fade-down">Evomed<span></span></h2>
               <p data-aos="fade-up">
-                Эвомед — это круглосуточная детская клиника с квалифицированными
-                врачами.
+              Evomed - bu 24/7 malakali shifokorlar
               </p>
               <a
                 data-aos="fade-up"
                 data-aos-delay="200"
                 href="tel:+998 55 500 3200"
                 class="btn-get-started"
-                >Позвонить</a
+                >Qo'ng'iroq qiling</a
               >
             </div>
           </div>
@@ -122,25 +160,25 @@
         <div
           class="carousel-item"
           style="
-            background-image: url(assets/img/hero-carousel/evomed-logo.jpg);
+            background-image: url(assets/photos/rasm-14.jpg);
           "
         ></div>
         <div
           class="carousel-item"
           style="
-            background-image: url(assets/img/hero-carousel/evomed-logo.jpg);
+            background-image: url(assets/photos/rasm-18.jpg);
           "
         ></div>
         <div
           class="carousel-item"
           style="
-            background-image: url(assets/img/hero-carousel/evomed-logo.jpg);
+            background-image: url(assets/photos/rasm-16.jpg);
           "
         ></div>
         <div
           class="carousel-item"
           style="
-            background-image: url(assets/img/hero-carousel/evomed-logo.jpg);
+            background-image: url(assets/photos/rasm-17.jpg);
           "
         ></div>
 
@@ -176,9 +214,9 @@
             <section id="services" class="services section-bg">
               <div class="container" data-aos="fade-up">
                 <div class="section-header">
-                  <h2>Услуги</h2>
+                  <h2>Xizmatlar</h2>
                   <p>
-                    Виды услуг в детской клинике Evomed.
+                  "Evomed" bolalar klinikasida xizmat turlari.
                   </p>
                 </div>
       
@@ -192,12 +230,12 @@
                       <div class="icon">
                         <i class="bi bi-hospital-fill"></i>
                       </div>
-                      <h3>Педиатр</h3>
+                      <h3>Pediatr</h3>
                       <p>
-                        Врач, который дает оценку физического и нервно-психического развития детей, занимается профилактикой и лечением целого ряда заболеваний.
+                        Bolalarning jismoniy va neyropsik rivojlanishini baholaydigan shifokor bir qator kasalliklarning oldini olish va davolash bilan shug'ullanadi.
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -212,12 +250,12 @@
                       <div class="icon">
                         <i class="fas fa-user-md"></i>
                       </div>
-                      <h3>Невропатолог</h3>
+                      <h3>Nevropatolog</h3>
                       <p>
-                        Врач-специалист, который, как и педиатр, наблюдает за развитием ребенка, а точнее, за развитием его нервной системы
+                        Pediatr kabi bolaning rivojlanishini, aniqrog'i, uning asab tizimining rivojlanishini kuzatadigan mutaxassis shifokor
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -232,12 +270,12 @@
                       <div class="icon">
                         <i class="fas fa-hospital-user"></i>
                       </div>
-                      <h3>Ортопед</h3>
+                      <h3>Ortoped</h3>
                       <p>
-                        Врожденные и приобретенные патологии конечностей и позвоночника, нарушения походки, боль в суставах различного происхождения
+                        Qo'l-oyoq va umurtqa pog'onasining tug'ma va orttirilgan patologiyalari, yurishning buzilishi, turli xil kelib chiqadigan qo'shma og'riqlar
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -252,12 +290,12 @@
                       <div class="icon">
                         <i class="fas fa-flask"></i>
                       </div>
-                      <h3>Массаж</h3>
+                      <h3>Bolalar massaji</h3>
                       <p>
-                        Самый эффективный способ предупреждения и лечения многих заболеваний, возникающих на первых годах жизни ребенка
+                        Bolaning hayotining birinchi yillarida yuzaga keladigan ko'plab kasalliklarning oldini olish va davolashning eng samarali usuli
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -272,12 +310,12 @@
                       <div class="icon">
                         <i class="fas fa-hospital-user"></i>
                       </div>
-                      <h3>Физиотерапия</h3>
+                      <h3>Fizioterapiya</h3>
                       <p>
-                        Физическое воздействие на организм ребенка натуральными природными и физическими факторами с лечебно-профилактической целью
+                        Terapevtik va profilaktika maqsadida tabiiy va jismoniy omillarning bolaning tanasiga jismoniy ta'siri
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -292,12 +330,12 @@
                       <div class="icon">
                         <i class="bi bi-hospital-fill"></i>
                       </div>
-                      <h3>Детский психолог</h3>
+                      <h3>Bolalar psixologi</h3>
                       <p>
-                        В задачу профессионала нередко входит налаживание между ними эмоциональной связи, позволяющей легко преодолевать все психологические трудности.
+                        Mutaxassisning vazifasi ko'pincha ular o'rtasida hissiy aloqa o'rnatishni o'z ichiga oladi, bu esa barcha psixologik qiyinchiliklarni engib o'tishni osonlashtiradi.
                       </p>
                       <a href="./services.php" class="readmore stretched-link"
-                        >Узнать больше <i class="bi bi-arrow-right"></i
+                        >Qo'shimcha ma'lumot <i class="bi bi-arrow-right"></i
                       ></a>
                     </div>
                   </div>
@@ -310,38 +348,14 @@
       <section id="constructions" class="constructions">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <h2>Врачи</h2>
+            <h2>Shifokorlar</h2>
             <p>
-              Врачи детской клиники Evomed.
+              Evomed bolalar klinikasi shifokorlari.
             </p>
           </div>
 
           <div class="row gy-4">
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <div class="card-item">
-                <div class="row">
-                  <div class="col-xl-5">
-                    <div
-                      class="card-bg"
-                      style="
-                        background-image: url(assets/img/hero-carousel/img/doctor.jpg);
-                      "
-                    ></div>
-                  </div>
-                  <div class="col-xl-7 d-flex align-items-center">
-                    <div class="card-body">
-                      <h4 class="card-title">Шайхова Умида</h4>
-                      <p>
-                        Детский невропатолог, заведующий отделением неврологии
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Card Item -->
-
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card-item">
                 <div class="row">
                   <div class="col-xl-5">
@@ -355,16 +369,40 @@
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
                       <h4 class="card-title">
-                        Ташмухамедова Барно
+                        Toshmuhamedova Barno
                       </h4>
                       <p>
-                        Наша главная врач, ортопед, неонатолог
+                        Bizning bosh shifokorimiz, ortopedimiz, neonatologimiz
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+              <div class="card-item">
+                <div class="row">
+                  <div class="col-xl-5">
+                    <div
+                      class="card-bg"
+                      style="
+                        background-image: url(assets/img/hero-carousel/img/doctor.jpg);
+                      "
+                    ></div>
+                  </div>
+                  <div class="col-xl-7 d-flex align-items-center">
+                    <div class="card-body">
+                      <h4 class="card-title">Shayxova Umida</h4>
+                      <p>
+                      Bolalar nevropatologi, nevrologiya bo'limi boshlig'i
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- End Card Item -->
             <!-- End Card Item -->
 
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
@@ -381,10 +419,10 @@
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
                       <h4 class="card-title">
-                        Олия Турсунова                     
+                      Oliya Tursunova                    
                       </h4>
                       <p>
-                        Квалифицированный педиатр с 26-летним стажем
+                      Pediatr
                       </p>
                     </div>
                   </div>
@@ -407,10 +445,10 @@
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
                       <h4 class="card-title">
-                        Дильнура Ядгарова
+                      Dilnura Yadgarova
                       </h4>
                       <p>
-                        Педиатр-неонатолог
+                      Bolalar neonatologi
                       </p>
                     </div>
                   </div>
@@ -439,7 +477,7 @@
             ></div>
 
             <div class="col-lg-5 d-flex flex-column justify-content-center">
-              <h3>Почему выбирают Evomed?</h3>
+              <h3>Nega aynan Evomed?</h3>
 
               <div
                 class="icon-box d-flex position-relative"
@@ -450,7 +488,7 @@
                 <div>
                   <h4><a href="" class="stretched-link ">24/7</a></h4>
                   <p>
-                    Evomed — это круглосуточная детская клиника с квалифицированными врачами.
+                  “Evomed” bolalar klinikasi 24 soat davomida malakali shifokorlarga ega.
                   </p>
                 </div>
               </div>
@@ -463,9 +501,9 @@
               >
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
-                  <h4><a href="" class="stretched-link">Удобное расположение</a></h4>
+                  <h4><a href="" class="stretched-link">Qulay joylashuv</a></h4>
                   <p>
-                    Детская клиника в центре города
+                  Shahar markazidagi bolalar klinikasi
                   </p>
                 </div>
               </div>
@@ -478,9 +516,9 @@
               >
                 <i class="bi bi-safe2 flex-shrink-0"></i>
                 <div>
-                  <h4><a href="" class="stretched-link">Безопасность</a></h4>
+                  <h4><a href="" class="stretched-link">Xavfsizlik</a></h4>
                   <p>
-                    Квалифицированные врачи – залог безопасности
+                  Malakali shifokorlar xavfsizlikning kalitidir
                   </p>
                 </div>
               </div>
@@ -491,220 +529,13 @@
       </section>
       <!-- End Alt Services Section -->
 
-      <!-- ======= Features Section ======= -->
-      <section id="features" class="features section-bg">
-        <div class="container" data-aos="fade-up">
-          <ul class="nav nav-tabs row g-2 d-flex">
-            <li class="nav-item col-3">
-              <a
-                class="nav-link active show"
-                data-bs-toggle="tab"
-                data-bs-target="#tab-1"
-              >
-                <h4>ДИАГНОСТИКА</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-                <h4>ДИАГНОСТИКА</h4> </a
-              ><!-- End tab nav item -->
-            </li>
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-                <h4>ДИАГНОСТИКА</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-                <h4>ДИАГНОСТИКА</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-          </ul>
-
-          <div class="tab-content">
-            <div class="tab-pane active show" id="tab-1">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                  data-aos="fade-up"
-                  data-aos-delay="100"
-                >
-                  <h3>Voluptatem dignissimos provident</h3>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  class="col-lg-6 order-1 order-lg-2 text-center"
-                  data-aos="fade-up"
-                  data-aos-delay="200"
-                >
-                  <img
-                    src="assets/img/hero-carousel/evomed-logo.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-2">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Neque exercitationem debitis</h3>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Provident mollitia neque
-                      rerum asperiores dolores quos qui a. Ipsum neque dolor
-                      voluptate nisi sed.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/evomed-logo.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-3">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Voluptatibus commodi accusamu</h3>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Provident mollitia neque
-                      rerum asperiores dolores quos qui a. Ipsum neque dolor
-                      voluptate nisi sed.
-                    </li>
-                  </ul>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/evomed-logo.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-4">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Omnis fugiat ea explicabo sunt</h3>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in
-                      reprehenderit in voluptate trideta storacalaperda mastiro
-                      dolore eu fugiat nulla pariatur.
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/evomed-logo.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-          </div>
-        </div>
-      </section>
-      <!-- End Features Section -->
-
       <!-- ======= Testimonials Section ======= -->
       <section id="testimonials" class="testimonials section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <h2>Отзывы клиентов</h2>
+            <h2>Mijozlarning sharhlari</h2>
             <p>
-              Отзывы клиентов детской клиники Эвомед
+              Evomed bolalar klinikasi haqida mijozlarning fikr-mulohazalari.
             </p>
           </div>
 
@@ -719,7 +550,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Жасмина</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -729,10 +560,10 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Proin iaculis purus consequat sem cure digni ssim donec
-                      porttitora entum suscipit rhoncus. Accusantium quam,
-                      ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                      risus at semper.
+                      Barno Erkinovna manam szi cin dildan yaxwi koraman maniyam qizimi tuzatgansiz 
+                      avvalo hamasi Alloxdan sizi sababci qlb ucratgan bzaga 
+                      5balnitsada qaragandiz kop esliman szi kim bolasiga doxtr qdrsa 
+                      srazu qorqmasdan szi etaman umrizga rizqizga Allox baraka bersin qalbi toza mexribon opajonim
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -748,7 +579,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Мафтуна Омониллаева</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -758,10 +589,11 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Export tempor illum tamen malis malis eram quae irure esse
-                      labore quem cillum quid cillum eram malis quorum velit
-                      fore eram velit sunt aliqua noster fugiat irure amet legam
-                      anim culpa.
+                      Assalomu aleykum fidoyi 
+                      insonni alloh mukofotlasin har doim beminnat maslaxatlarini 
+                      ayamaganla Barno Erkinovna qaconki oborsamam qaraberalla telefinda 
+                      sorasamam bolamga tori yonalish berib onlina davoliydilayam bilmiman
+                      bunaqa inson bolish ucun qanaqa qalb va sabr kere rahmat Barnopa borizga shukur
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -777,7 +609,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Мехринисо Арипова</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -787,9 +619,9 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Enim nisi quem export duis labore cillum quae magna enim
-                      sint quorum nulla quem veniam duis minim tempor labore
-                      quem eram duis noster aute amet eram fore quis sint minim.
+                      Умида опа Шайхова жудаям кучли неврапотологлар. 
+                      Ман фарзандларимни уларни куригига обораман ва ишонаман❤️. 
+                      Умрилари узок булсин🤲
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -805,7 +637,7 @@
                       class="testimonial-img"
                       alt=""
                     />
-                    <h3>Имя Фамилия</h3>
+                    <h3>Диэлора Усманова</h3>
                     <div class="stars">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i
@@ -815,10 +647,8 @@
                     </div>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa
-                      multos export minim fugiat minim velit minim dolor enim
-                      duis veniam ipsum anim magna sunt elit fore quem dolore
-                      labore illum veniam.
+                      Voy mani bolamni oyoĝi oğrirdi. Kôp yurgansan yugurgansan dirdim. Vitamin yetiwmasakande.
+                      Raxmat silaga wunaqa videola qòyvotganilaga. Bilib oldim. Endi tez ortapedga oboraman
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
@@ -836,21 +666,20 @@
       <section id="recent-blog-posts" class="recent-blog-posts">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <h2>НОВОСТИ</h2>
+            <h2>Yangiliklar</h2>
             <p>
-              Новости детской клиники Эвомед
+              Evomed bolalar klinikasi yangiliklari
             </p>
           </div>
 
           <div class="row gy-5">
-            <div
+            <!-- <div
               class="col-xl-4 col-md-6"
               data-aos="fade-up"
               data-aos-delay="100"
             >
               <div class="post-item position-relative h-100">
                 <div class="post-img position-relative overflow-hidden">
-                  <!-- <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""> -->
                   <img
                     src="assets/img/hero-carousel/evomed-logo.jpg"
                     class="img-fluid"
@@ -867,10 +696,10 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
 
-            <div
+            <!-- <div
               class="col-xl-4 col-md-6"
               data-aos="fade-up"
               data-aos-delay="200"
@@ -894,10 +723,10 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
 
-            <div class="col-xl-4 col-md-6">
+            <!-- <div class="col-xl-4 col-md-6">
               <div
                 class="post-item position-relative h-100"
                 data-aos="fade-up"
@@ -920,7 +749,7 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
           </div>
         </div>
@@ -934,9 +763,8 @@
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
             <div class="content">
-              <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-              <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum nobis ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut delectus dicta.
-              <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+              <h3>Evomed bilan tezkor aloqa!</h3>
+              <p>Bolalar poliklinikasi - bu bolalar kasalliklarini tashxislash va davolashga ixtisoslashgan tibbiyot muassasasi. Bolalar poliklinikasida pediatriya, nevrologiya, oftalmologiya, allergologiya-immunologiya va boshqa tibbiyotning turli sohalariga ixtisoslashgan yuqori malakali mutaxassislar ishlaydi.</p>
             </div>
           </div>
 
@@ -944,17 +772,17 @@
             <form method="POST" action="./cntact.php" role="form" >
               <div class="row gy-4">
                 <div class="col-lg-6 form-group">
-                  <input type="text" id="name" class="form-control" placeholder="Ваше имя и фамилия" name="name" required>
+                  <input type="text" id="name" class="form-control" placeholder="Ismingizni yozing" name="name" required>
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="text" id="phone" class="form-control" placeholder="Ваш номер телефона" name="phone" required><br>
+                  <input type="text" id="phone" class="form-control" placeholder="Telefon raqamingiz" name="phone" required><br>
                 </div>
               </div>
               <div class="form-group">
-                <textarea id="message" class="form-control" rows="5" placeholder="Оставьте свое сообщение" name="message" required></textarea>
+                <textarea id="message" class="form-control" rows="5" placeholder="Xarbarni yozing" name="message" required></textarea>
               </div><br>
               <div class="text-center">
-                <button type="submit">Отправить сообщение</button>
+                <button type="submit">Xabarni yoborish</button>
               </div>
             </form>
           </div><!-- End Quote Form -->
@@ -968,104 +796,118 @@
 
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
-      <div class="footer-content position-relative">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 col-md-6">
-              <div class="footer-info">
-                <h3>Эвомед</h3>
-                <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                  Юнусабад, <br />
-                  улица Ахмеда Дониша 47а<br /></a><br />
-                  <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
-                </p>
-                <div class="social-links d-flex mt-3">
-                  <a
-                    href="https://www.tiktok.com/@evomed_uz"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-tiktok"></i
-                  ></a>
-                  <a
-                    href="https://www.facebook.com/evomeduz/"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-facebook"></i
-                  ></a>
-                  <a
-                    href="https://www.instagram.com/evomed_uz/"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-instagram"></i
-                  ></a>
-                  <a
-                    href="https://www.youtube.com/@evomed_uz8797"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-youtube"></i
-                  ></a>
-                </div>
+    <div class="footer-content position-relative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>EVOMED</h3>
+              <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
+                Yunusobod, <br />
+                Ahmad Donish 47a<br /></a><br />
+                <strong>Telefon raqam:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+              </p>
+              <div class="social-links d-flex mt-3">
+                <a
+                  href="https://www.tiktok.com/@evomed_uz"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-tiktok"></i
+                ></a>
+                <a
+                  href="https://www.facebook.com/evomeduz/"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-facebook"></i
+                ></a>
+                <a
+                  href="https://www.instagram.com/evomed_uz/"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-instagram"></i
+                ></a>
+                <a
+                  href="https://www.youtube.com/@evomed_uz8797"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-youtube"></i
+                ></a>
               </div>
             </div>
-            <!-- End footer info column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
-              <ul>
-                <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-                <li><a href="./about.php">ВРАЧИ</a></li>
-                <li><a href="./services.php">УСЛУГИ</a></li>
-                <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-                <li><a href="./blog.php">НОВОСТИ</a></li>
-                <li><a href="./contact.php">АДРЕС</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>УСЛУГИ</h4>
-              <ul>
-                <li><a href="./services.php">Web Design</a></li>
-                <li><a href="./services.php">Web Development</a></li>
-                <li><a href="./services.php">Product Management</a></li>
-                <li><a href="./services.php">Marketing</a></li>
-                <li><a href="./services.php">Graphic Design</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <ul>
-                <li><a href="./services.php">Molestiae accusamus iure</a></li>
-                <li><a href="./services.php">Excepturi dignissimos</a></li>
-                <li><a href="./services.php">Suscipit distinctio</a></li>
-                <li><a href="./services.php">Dilecta</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">  
-              <ul>
-                <li><a href="./services.php">Ipsam</a></li>
-                <li><a href="./services.php">Laudantium dolorum</a></li>
-                <li><a href="./services.php">Dinera</a></li>
-                <li><a href="./services.php">Trodelas</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
           </div>
+          <!-- End footer info column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>FOYDALI LINKLAR</h4>
+            <ul>
+              <li><a href="./index.php">BOSH SAHIFA</a></li>
+              <li><a href="./about.php">SHIFOKORLAR</a></li>
+              <li><a href="./services.php">XIZMATLAR</a></li>
+              <li><a href="./projects.php">DIAGNOSTIKA</a></li>
+              <li><a href="./blog.php">YANGILIKLAR</a></li>
+              <li><a href="./contact.php">MANZIL</a></li>
+            </ul>
+          </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>XIZMATLAR</h4>
+            <ul>
+                <li><a href="./services.php">Bronxit</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Traxeit</a></li>
+                <li><a href="./services.php">Zotiljam</a></li>
+                <li><a href="./services.php">Bronxiolit</a></li>
+                <li><a href="./services.php">Frontit</a></li>
+                <li><a href="./services.php">Og'izdan noxush hid kelishi</a></li>
+                <li><a href="./services.php">Surunkali tonzillitni davolash</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Allergik tumov</a></li>
+            </ul>
+          </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gastroduodenit</a></li>
+                <li><a href="./services.php">Gastroenterokolit</a></li>
+                <li><a href="./services.php">Surunkali qabziyat</a></li>
+                <li><a href="./services.php">Disbakterioz</a></li>
+                <li><a href="./services.php">Xoletsistit</a></li>
+                <li><a href="./services.php">Quloq qichishi, bitib qolishi</a></li>
+                <li><a href="./services.php">Yo'tal</a></li>
+                <li><a href="./services.php">Kattalar va bolalar konsultatsiysi</a></li>
+                <li><a href="./services.php">Tassi oyoqlik</a></li>
+                <li><a href="./services.php">Son qanoq displazi</a></li>
+              </ul>
+            </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gepatit</a></li>
+                <li><a href="./services.php">Piyelonefrit</a></li>
+                <li><a href="./services.php">Toksikoderma</a></li>
+                <li><a href="./services.php">HOBL</a></li>
+                <li><a href="./services.php">Revmatizm</a></li>
+                <li><a href="./services.php">Sinusit</a></li>
+                <li><a href="./services.php">Son chanoq bo'g'imidagi chala va to'liq chiqishlar</a></li>
+                <li><a href="./services.php">Raxit</a></li>
+                <li><a href="./services.php">X yoki O obrazniy qiyshayishlar</a></li>
+                <li><a href="./services.php">Umurtqa pog'onasi qiyshayisi</a></li>
+                <li><a href="./services.php">Ichak gelmintozlari - giardiaz, ichak askariozi, enterobioz va boshqalar</a></li>
+              </ul>
+            </div>
+          <!-- End footer links column-->
         </div>
       </div>
+    </div>
 
-      <div class="footer-legal text-center position-relative">
-        <div class="container">
-          <div class="copyright">
-            &copy; Авторские права <strong><span>UIS</span></strong
-            >. Все права защищены
-          </div>
+    <div class="footer-legal text-center position-relative">
+      <div class="container">
+        <div class="copyright">
+          &copy;Mualliflik huquqi <strong><span>EVOMED</span></strong
+          >. Barcha huquqlar himoyalangan
         </div>
       </div>
-    </footer>
+    </div>
+  </footer>
     <!-- End Footer -->
 
     <a

@@ -130,104 +130,122 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
-    <div class="footer-content position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>Эвомед</h3>
-              <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                Юнусабад, <br />
-                улица Ахмеда Дониша 47а<br /></a><br />
-                <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a
-                  href="https://www.tiktok.com/@evomed_uz"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-tiktok"></i
-                ></a>
-                <a
-                  href="https://www.facebook.com/evomeduz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-facebook"></i
-                ></a>
-                <a
-                  href="https://www.instagram.com/evomed_uz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-instagram"></i
-                ></a>
-                <a
-                  href="https://www.youtube.com/@evomed_uz8797"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-youtube"></i
-                ></a>
+      <div class="footer-content position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="footer-info">
+                <h3>Evomed</h3>
+                <p>
+                  <a href="https://yandex.com/maps/-/CCUczPrDGD">
+                    Юнусабад, <br />
+                    улица Ахмеда Дониша 47а<br /></a
+                  ><br />
+                  <strong>Номер телефона:</strong
+                  ><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                </p>
+                <div class="social-links d-flex mt-3">
+                  <a
+                    href="https://www.tiktok.com/@evomed_uz"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-tiktok"></i
+                  ></a>
+                  <a
+                    href="https://www.facebook.com/evomeduz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-facebook"></i
+                  ></a>
+                  <a
+                    href="https://www.instagram.com/evomed_uz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-instagram"></i
+                  ></a>
+                  <a
+                    href="https://www.youtube.com/@evomed_uz8797"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-youtube"></i
+                  ></a>
+                </div>
               </div>
             </div>
-          </div>
-          <!-- End footer info column-->
+            <!-- End footer info column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
-            <ul>
-              <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-              <li><a href="./about.php">ВРАЧИ</a></li>
-              <li><a href="./services.php">УСЛУГИ</a></li>
-              <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-              <li><a href="./blog.php">НОВОСТИ</a></li>
-              <li><a href="./contact.php">АДРЕС</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
+              <ul>
+                <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
+                <li><a href="./about.php">ВРАЧИ</a></li>
+                <li><a href="./services.php">УСЛУГИ</a></li>
+                <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
+                <li><a href="./blog.php">НОВОСТИ</a></li>
+                <li><a href="./contact.php">АДРЕС</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>УСЛУГИ</h4>
-            <ul>
-              <li><a href="./services.php">Web Design</a></li>
-              <li><a href="./services.php">Web Development</a></li>
-              <li><a href="./services.php">Product Management</a></li>
-              <li><a href="./services.php">Marketing</a></li>
-              <li><a href="./services.php">Graphic Design</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>УСЛУГИ</h4>
+              <ul>
+                <li><a href="./services.php">Бронхит</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Трахеит</a></li>
+                <li><a href="./services.php">Пневмония</a></li>
+                <li><a href="./services.php">Бронхеолит</a></li>
+                <li><a href="./services.php">Фронтит</a></li>
+                <li><a href="./services.php">Оғиздан нохуш хид келиши</a></li>
+                <li><a href="./services.php">Сурункали тонзиллитни даволаш</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Аллергик тумов</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <ul>
-              <li><a href="./services.php">Molestiae accusamus iure</a></li>
-              <li><a href="./services.php">Excepturi dignissimos</a></li>
-              <li><a href="./services.php">Suscipit distinctio</a></li>
-              <li><a href="./services.php">Dilecta</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гастродуодинит</a></li>
+                <li><a href="./services.php">Гастроэнтероколит</a></li>
+                <li><a href="./services.php">Хронический</a></li>
+                <li><a href="./services.php">Запор</a></li>
+                <li><a href="./services.php">Дисбактериоз</a></li>
+                <li><a href="./services.php">Холецистит</a></li>
+                <li><a href="./services.php">Қулоқ қичиши, битиб қолиши</a></li>
+                <li><a href="./services.php">Йутал</a></li>
+                <li><a href="./services.php">Катталар ва болалар консультацияси</a></li>
+                <li><a href="./services.php">Ясси оёқлилик</a></li>
+                <li><a href="./services.php">Сон чаноқ дисплазияси</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">  
-            <ul>
-              <li><a href="./services.php">Ipsam</a></li>
-              <li><a href="./services.php">Laudantium dolorum</a></li>
-              <li><a href="./services.php">Dinera</a></li>
-              <li><a href="./services.php">Trodelas</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-            </ul>
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гепатит</a></li>
+                <li><a href="./services.php">Пиолонефрит</a></li>
+                <li><a href="./services.php">Токсикодермия</a></li>
+                <li><a href="./services.php">ХОБЛ</a></li>
+                <li><a href="./services.php">Ревматизм</a></li>
+                <li><a href="./services.php">Гайморит</a></li>
+                <li><a href="./services.php">Сон чаноқ бўғимидан чала ва тўлиқ чиқишлар</a></li>
+                <li><a href="./services.php">Рахит (кўкрак қафаси ва оёқларда)</a></li>
+                <li><a href="./services.php">X ёки O образний қийшайишлар</a></li>
+                <li><a href="./services.php">Умуртқа поғонаси қийшайишлари (сколёз, лордоз, кифоз)</a></li>
+                <li><a href="./services.php">Гельминтозы кишечника- лямблиоз, аскаридоз кишечника, энтеробиоз и др</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
           </div>
-          <!-- End footer links column-->
         </div>
       </div>
-    </div>
 
-    <div class="footer-legal text-center position-relative">
-      <div class="container">
-        <div class="copyright">
-          &copy; Авторские права <strong><span>UIS</span></strong
-          >. Все права защищены
+      <div class="footer-legal text-center position-relative">
+        <div class="container">
+          <div class="copyright">
+            &copy; Авторские права <strong><span> EVOMED</span></strong
+            >. Все права защищены
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
+    </footer>
   <!-- End Footer -->
   <a
   href="tel: +998 55 500 3200"

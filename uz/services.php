@@ -97,9 +97,9 @@
       <section id="services" class="services section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <h2>Услуги</h2>
+            <h2>Xizmatlar</h2>
             <p>
-              Виды услуг в детской клинике Evomed.
+            "Evomed" bolalar klinikasida xizmat turlari.
             </p>
           </div>
 
@@ -113,9 +113,9 @@
                 <div class="icon">
                   <i class="bi bi-hospital-fill"></i>
                 </div>
-                <h3>Педиатр</h3>
+                <h3>Pediatr</h3>
                 <p>
-                  Врач, который дает оценку физического и нервно-психического развития детей, занимается профилактикой и лечением целого ряда заболеваний.
+                Bolalarning jismoniy va neyropsik rivojlanishini baholaydigan shifokor bir qator kasalliklarning oldini olish va davolash bilan shug'ullanadi.
                 </p>
               </div>
             </div>
@@ -130,9 +130,9 @@
                 <div class="icon">
                   <i class="fas fa-user-md"></i>
                 </div>
-                <h3>Невропатолог</h3>
+                <h3>Nevropatolog</h3>
                 <p>
-                  Врач-специалист, который, как и педиатр, наблюдает за развитием ребенка, а точнее, за развитием его нервной системы
+                Pediatr kabi bolaning rivojlanishini, aniqrog'i, uning asab tizimining rivojlanishini kuzatadigan mutaxassis shifokor
                 </p>
               </div>
             </div>
@@ -147,9 +147,9 @@
                 <div class="icon">
                   <i class="fas fa-hospital-user"></i>
                 </div>
-                <h3>Ортопед</h3>
+                <h3>Ortoped</h3>
                 <p>
-                  Врожденные и приобретенные патологии конечностей и позвоночника, нарушения походки, боль в суставах различного происхождения
+                Qo'l-oyoq va umurtqa pog'onasining tug'ma va orttirilgan patologiyalari, yurishning buzilishi, turli xil kelib chiqadigan qo'shma og'riqlar
                 </p>
               </div>
             </div>
@@ -164,9 +164,9 @@
                 <div class="icon">
                   <i class="fas fa-flask"></i>
                 </div>
-                <h3>Массаж</h3>
+                <h3>Bolalar massaji</h3>
                 <p>
-                  Самый эффективный способ предупреждения и лечения многих заболеваний, возникающих на первых годах жизни ребенка
+                Bolaning hayotining birinchi yillarida yuzaga keladigan ko'plab kasalliklarning oldini olish va davolashning eng samarali usuli
                 </p>
               </div>
             </div>
@@ -181,9 +181,9 @@
                 <div class="icon">
                   <i class="fas fa-hospital-user"></i>
                 </div>
-                <h3>Физиотерапия</h3>
+                <h3>Fizioterapiya</h3>
                 <p>
-                  Физическое воздействие на организм ребенка натуральными природными и физическими факторами с лечебно-профилактической целью
+                Terapevtik va profilaktika maqsadida tabiiy va jismoniy omillarning bolaning tanasiga jismoniy ta'siri
                 </p>
               </div>
             </div>
@@ -198,9 +198,9 @@
                 <div class="icon">
                   <i class="bi bi-hospital-fill"></i>
                 </div>
-                <h3>Детский психолог</h3>
+                <h3>EEG</h3>
                 <p>
-                  В задачу профессионала нередко входит налаживание между ними эмоциональной связи, позволяющей легко преодолевать все психологические трудности.
+                Elektroansefalografiya (EEG) - elektrodlarni bosh yuzasida ma'lum joylarga joylashtirish orqali miyaning elektr faolligini o'rganish usuli.
                 </p>
               </div>
             </div>
@@ -219,23 +219,31 @@
               data-aos="zoom-in"
               data-aos-delay="100"
             >
-              <h3>Quasi eaque omnis</h3>
-              <p>
-                Eius non minus autem soluta ut ui labore omnis quisquam corrupti
-                autem odit voluptas quos commodi magnam occaecati.
-              </p>
+              <h3>Bizning xizmatlar</h3>
               <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ullamco laboris nisi ut aliquip</span>
+                  <span>Bronxit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Duis aute irure dolor in reprehenderit</span>
+                  <span>Laringit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ullamco laboris nisi ut aliquip ex ea</span>
+                  <span>Traxeit</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Zotiljam</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Bronxiolit</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Gastrit</span>
                 </li>
               </ul>
             </div>
@@ -246,25 +254,30 @@
               data-aos="zoom-in"
               data-aos-delay="200"
             >
-              <h3>Et nemo dolores consectetur</h3>
-              <p>
-                Ducimus ea quam et occaecati est. Temporibus in soluta labore
-                voluptates aut. Et sit soluta non repellat sed quia dire plovers
-                tradoria
-              </p>
-
               <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Enim temporibus maiores eligendi</span>
+                  <span>Gastroduodenit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Ut maxime ut quibusdam quam qui</span>
+                  <span>Gastroenterokolit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Officiis aspernatur in officiis</span>
+                  <span>Surunkali ich qotishi</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Disbakterioz</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Xoletsistit</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Gepatit</span>
                 </li>
               </ul>
             </div>
@@ -275,24 +288,34 @@
               data-aos="zoom-in"
               data-aos-delay="300"
             >
-              <h3>Staque laboriosam modi</h3>
-              <p>
-                Velit eos error et dolor omnis voluptates nobis tenetur sed enim
-                nihil vero qui suscipit ipsum at magni. Ipsa architecto
-                consequatur aliquam
-              </p>
-              <ul class="list-unstyled">
+            <ul class="list-unstyled">
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Quis voluptates laboriosam numquam</span>
+                  <span>Piyelonefrit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Treva libero sunt quis veniam ut</span>
+                  <span>Toksikoderma</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Debitis eos est est corrupti</span>
+                  <span>HOBL</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>O'tkir diareya</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Revmatizm</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Ichak gelmintozlari - giardiasis</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Sinusit</span>
                 </li>
               </ul>
             </div>
@@ -303,24 +326,34 @@
               data-aos="zoom-in"
               data-aos-delay="400"
             >
-              <h3>Dignissimos suscipit iste</h3>
-              <p>
-                Molestiae occaecati assumenda quia saepe nobis recusandae at
-                dicta ducimus sequi numquam commodi est in consequatur ea magnam
-                quia itaque
-              </p>
               <ul class="list-unstyled">
-                <li>
+              <li>
                   <i class="bi bi-check2"></i>
-                  <span>Veritatis qui reprehenderit quis</span>
+                  <span>Frontit</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Accusantium vel numquam sunt minus</span>
+                  <span>Ogizdan nohush Xid kelishi</span>
                 </li>
                 <li>
                   <i class="bi bi-check2"></i>
-                  <span>Voluptatem pariatur est sationem</span>
+                  <span>Burun bitishi</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Surunkali tonzillitni davolash</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Anginani davolash</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Laringit</span>
+                </li>
+                <li>
+                  <i class="bi bi-check2"></i>
+                  <span>Kuloqdan yiring oqishi</span>
                 </li>
               </ul>
             </div>
@@ -334,107 +367,118 @@
 
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
-      <div class="footer-content position-relative">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 col-md-6">
-              <div class="footer-info">
-                <h3>Эвомед</h3>
-                <p>
-                  <a href="https://yandex.com/maps/-/CCUczPrDGD">
-                    Юнусабад, <br />
-                    улица Ахмеда Дониша 47а<br /></a
-                  ><br />
-                  <strong>Номер телефона:</strong
-                  ><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
-                </p>
-                <div class="social-links d-flex mt-3">
-                  <a
-                    href="https://www.tiktok.com/@evomed_uz"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-tiktok"></i
-                  ></a>
-                  <a
-                    href="https://www.facebook.com/evomeduz/"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-facebook"></i
-                  ></a>
-                  <a
-                    href="https://www.instagram.com/evomed_uz/"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-instagram"></i
-                  ></a>
-                  <a
-                    href="https://www.youtube.com/@evomed_uz8797"
-                    class="d-flex align-items-center justify-content-center"
-                    ><i class="bi bi-youtube"></i
-                  ></a>
-                </div>
+    <div class="footer-content position-relative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>EVOMED</h3>
+              <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
+                Yunusobod, <br />
+                Ahmad Donish 47a<br /></a><br />
+                <strong>Telefon raqam:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+              </p>
+              <div class="social-links d-flex mt-3">
+                <a
+                  href="https://www.tiktok.com/@evomed_uz"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-tiktok"></i
+                ></a>
+                <a
+                  href="https://www.facebook.com/evomeduz/"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-facebook"></i
+                ></a>
+                <a
+                  href="https://www.instagram.com/evomed_uz/"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-instagram"></i
+                ></a>
+                <a
+                  href="https://www.youtube.com/@evomed_uz8797"
+                  class="d-flex align-items-center justify-content-center"
+                  ><i class="bi bi-youtube"></i
+                ></a>
               </div>
             </div>
-            <!-- End footer info column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
-              <ul>
-                <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-                <li><a href="./about.php">ВРАЧИ</a></li>
-                <li><a href="./services.php">УСЛУГИ</a></li>
-                <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-                <li><a href="./blog.php">НОВОСТИ</a></li>
-                <li><a href="./contact.php">АДРЕС</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>УСЛУГИ</h4>
-              <ul>
-                <li><a href="./services.php">Web Design</a></li>
-                <li><a href="./services.php">Web Development</a></li>
-                <li><a href="./services.php">Product Management</a></li>
-                <li><a href="./services.php">Marketing</a></li>
-                <li><a href="./services.php">Graphic Design</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <ul>
-                <li><a href="./services.php">Molestiae accusamus iure</a></li>
-                <li><a href="./services.php">Excepturi dignissimos</a></li>
-                <li><a href="./services.php">Suscipit distinctio</a></li>
-                <li><a href="./services.php">Dilecta</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <ul>
-                <li><a href="./services.php">Ipsam</a></li>
-                <li><a href="./services.php">Laudantium dolorum</a></li>
-                <li><a href="./services.php">Dinera</a></li>
-                <li><a href="./services.php">Trodelas</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-              </ul>
-            </div>
-            <!-- End footer links column-->
           </div>
+          <!-- End footer info column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>FOYDALI LINKLAR</h4>
+            <ul>
+              <li><a href="./index.php">BOSH SAHIFA</a></li>
+              <li><a href="./about.php">SHIFOKORLAR</a></li>
+              <li><a href="./services.php">XIZMATLAR</a></li>
+              <li><a href="./projects.php">DIAGNOSTIKA</a></li>
+              <li><a href="./blog.php">YANGILIKLAR</a></li>
+              <li><a href="./contact.php">MANZIL</a></li>
+            </ul>
+          </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>XIZMATLAR</h4>
+            <ul>
+                <li><a href="./services.php">Bronxit</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Traxeit</a></li>
+                <li><a href="./services.php">Zotiljam</a></li>
+                <li><a href="./services.php">Bronxiolit</a></li>
+                <li><a href="./services.php">Frontit</a></li>
+                <li><a href="./services.php">Og'izdan noxush hid kelishi</a></li>
+                <li><a href="./services.php">Surunkali tonzillitni davolash</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Allergik tumov</a></li>
+            </ul>
+          </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gastroduodenit</a></li>
+                <li><a href="./services.php">Gastroenterokolit</a></li>
+                <li><a href="./services.php">Surunkali qabziyat</a></li>
+                <li><a href="./services.php">Disbakterioz</a></li>
+                <li><a href="./services.php">Xoletsistit</a></li>
+                <li><a href="./services.php">Quloq qichishi, bitib qolishi</a></li>
+                <li><a href="./services.php">Yo'tal</a></li>
+                <li><a href="./services.php">Kattalar va bolalar konsultatsiysi</a></li>
+                <li><a href="./services.php">Tassi oyoqlik</a></li>
+                <li><a href="./services.php">Son qanoq displazi</a></li>
+              </ul>
+            </div>
+          <!-- End footer links column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gepatit</a></li>
+                <li><a href="./services.php">Piyelonefrit</a></li>
+                <li><a href="./services.php">Toksikoderma</a></li>
+                <li><a href="./services.php">HOBL</a></li>
+                <li><a href="./services.php">Revmatizm</a></li>
+                <li><a href="./services.php">Sinusit</a></li>
+                <li><a href="./services.php">Son chanoq bo'g'imidagi chala va to'liq chiqishlar</a></li>
+                <li><a href="./services.php">Raxit</a></li>
+                <li><a href="./services.php">X yoki O obrazniy qiyshayishlar</a></li>
+                <li><a href="./services.php">Umurtqa pog'onasi qiyshayisi</a></li>
+                <li><a href="./services.php">Ichak gelmintozlari - giardiaz, ichak askariozi, enterobioz va boshqalar</a></li>
+              </ul>
+            </div>
+          <!-- End footer links column-->
         </div>
       </div>
+    </div>
 
-      <div class="footer-legal text-center position-relative">
-        <div class="container">
-          <div class="copyright">
-            &copy; Авторские права <strong><span>UIS</span></strong
-            >. Все права защищены
-          </div>
+    <div class="footer-legal text-center position-relative">
+      <div class="container">
+        <div class="copyright">
+          &copy;Mualliflik huquqi <strong><span>EVOMED</span></strong
+          >. Barcha huquqlar himoyalangan
         </div>
       </div>
-    </footer>
+    </div>
+  </footer>
     <!-- End Footer -->
 
     <a

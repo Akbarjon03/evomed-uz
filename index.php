@@ -131,7 +131,7 @@
             <div class="col-lg-6 text-center">
               <h2 data-aos="fade-down">Evomed<span></span></h2>
               <p data-aos="fade-up">
-                Эвомед — это круглосуточная детская клиника с квалифицированными
+                Evomed — это круглосуточная детская клиника с квалифицированными
                 врачами.
               </p>
               <a
@@ -532,194 +532,13 @@
       </section>
       <!-- End Alt Services Section -->
 
-      <!-- ======= Features Section ======= -->
-      <section id="features" class="features section-bg">
-        <div class="container" data-aos="fade-up">
-          <ul class="nav nav-tabs row g-2 d-flex">
-            <li class="nav-item col-3">
-              <a
-                class="nav-link active show"
-                data-bs-toggle="tab"
-                data-bs-target="#tab-1"
-              >
-                <h4>ЭЛЕКТРОЭНЦЕФАЛОГРАФИЯ</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-                <h4>ЛАБОРАТОРИЯ</h4> </a
-              ><!-- End tab nav item -->
-            </li>
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-                <h4>РЕНТГЕН</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-
-            <li class="nav-item col-3">
-              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-                <h4>УЗИ</h4>
-              </a>
-            </li>
-            <!-- End tab nav item -->
-          </ul>
-
-          <div class="tab-content">
-            <div class="tab-pane active show" id="tab-1">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                  data-aos="fade-up"
-                  data-aos-delay="100"
-                >
-                  <h3>Электроэнцефалография</h3>
-                  <p class="fst-italic">
-                    Один из самых широко применяемых методов диагностики и исследования головного мозга, 
-                    применяемый в современной неврологии и педиатрии. ЭЭГ позволяет проследить за мозговой активностью ребенка, 
-                    оценить функциональные изменения коры головного мозга, подтвердить или опровергнуть наличие поражений и расстройств 
-                    ЦНС (центральной нервной системы).
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Provident mollitia neque
-                      rerum asperiores dolores quos qui a. Ipsum neque dolor
-                      voluptate nisi sed.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  class="col-lg-6 order-1 order-lg-2 text-center"
-                  data-aos="fade-up"
-                  data-aos-delay="200"
-                >
-                  <img
-                    src="assets/img/hero-carousel/EEG.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-2">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Лаборатория</h3>
-                  <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Provident mollitia neque
-                      rerum asperiores dolores quos qui a. Ipsum neque dolor
-                      voluptate nisi sed.
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/p423.jpeg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-3">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Рентген</h3>
-                  <p class="fst-italic">
-                  Рентген по строгим показаниям делают в возрасте с 3 месяцев, 
-                  если нет альтернативных методов, которые можно использовать для диагностики. 
-                  В возрасте до 12 лет рентген детям проводится в присутствии родителей. 
-                  После достижения 18 лет разрешается делать рентген при наличии на это показаний.
-                  </p>
-                  <ul>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat.
-                    </li>
-                    <li>
-                      <i class="bi bi-check2-all"></i> Duis aute irure dolor in
-                      reprehenderit in voluptate velit.
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/rentgenografiya.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-
-            <div class="tab-pane" id="tab-4">
-              <div class="row">
-                <div
-                  class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
-                >
-                  <h3>Узи</h3>
-                  <p class="fst-italic">
-                  Узи – один из самых безопасных, доступных и информативных методов диагностики, который применяется в современной педиатрии.
-                  Данный метод основан на свойствах ультразвука отражаться при прохождении границ между различными средами. 
-                  На основании данных, полученных с помощью отраженных волн, создается изображение внутренних органов ребенка, по которому врач может судить об их состоянии.
-                  </p>
-                </div>
-                <div class="col-lg-6 order-1 order-lg-2 text-center">
-                  <img
-                    src="assets/img/hero-carousel/uzi.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
-                </div>
-              </div>
-            </div>
-            <!-- End tab content item -->
-          </div>
-        </div>
-      </section>
-      <!-- End Features Section -->
-
       <!-- ======= Testimonials Section ======= -->
       <section id="testimonials" class="testimonials section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
             <h2>Отзывы клиентов</h2>
             <p>
-              Отзывы клиентов детской клиники Эвомед
+              Отзывы клиентов детской клиники Evomed
             </p>
           </div>
 
@@ -850,21 +669,20 @@
       <section id="recent-blog-posts" class="recent-blog-posts">
         <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <h2>НОВОСТИ</h2>
+            <h2>Новости</h2>
             <p>
-              Новости детской клиники Эвомед
+              Новости детской клиники Evomed
             </p>
           </div>
 
           <div class="row gy-5">
-            <div
+            <!-- <div
               class="col-xl-4 col-md-6"
               data-aos="fade-up"
               data-aos-delay="100"
             >
               <div class="post-item position-relative h-100">
                 <div class="post-img position-relative overflow-hidden">
-                  <!-- <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""> -->
                   <img
                     src="assets/img/hero-carousel/evomed-logo.jpg"
                     class="img-fluid"
@@ -881,10 +699,10 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
 
-            <div
+            <!-- <div
               class="col-xl-4 col-md-6"
               data-aos="fade-up"
               data-aos-delay="200"
@@ -908,10 +726,10 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
 
-            <div class="col-xl-4 col-md-6">
+            <!-- <div class="col-xl-4 col-md-6">
               <div
                 class="post-item position-relative h-100"
                 data-aos="fade-up"
@@ -934,7 +752,7 @@
                   <a href="./blog.php"><span>Читать далее </span></a>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- End post item -->
           </div>
         </div>
@@ -948,7 +766,7 @@
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
             <div class="content">
-              <h3>Быстрый контакт с Evomed!</h3>
+              <h3></h3>
               <p>
               Детская клиника - это медицинское учреждение, которое специализируется на диагностике и лечении заболеваний у детей. В детской клинике работают высококвалифицированные специалисты, которые специализируются на разных областях медицины, таких как педиатрия, неврология, офтальмология, аллергология-иммунология и другие.
               </p>
@@ -988,11 +806,14 @@
           <div class="row">
             <div class="col-lg-4 col-md-6">
               <div class="footer-info">
-                <h3>EVOMED</h3>
-                <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                  Юнусабад, <br />
-                  улица Ахмеда Дониша 47а<br /></a><br />
-                  <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                <h3>Evomed</h3>
+                <p>
+                  <a href="https://yandex.com/maps/-/CCUczPrDGD">
+                    Юнусабад, <br />
+                    улица Ахмеда Дониша 47а<br /></a
+                  ><br />
+                  <strong>Номер телефона:</strong
+                  ><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
                 </p>
                 <div class="social-links d-flex mt-3">
                   <a
@@ -1036,35 +857,50 @@
             <div class="col-lg-2 col-md-3 footer-links">
               <h4>УСЛУГИ</h4>
               <ul>
-                <li><a href="./services.php">Web Design</a></li>
-                <li><a href="./services.php">Web Development</a></li>
-                <li><a href="./services.php">Product Management</a></li>
-                <li><a href="./services.php">Marketing</a></li>
-                <li><a href="./services.php">Graphic Design</a></li>
+                <li><a href="./services.php">Бронхит</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Трахеит</a></li>
+                <li><a href="./services.php">Пневмония</a></li>
+                <li><a href="./services.php">Бронхеолит</a></li>
+                <li><a href="./services.php">Фронтит</a></li>
+                <li><a href="./services.php">Оғиздан нохуш хид келиши</a></li>
+                <li><a href="./services.php">Сурункали тонзиллитни даволаш</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Аллергик тумов</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
 
             <div class="col-lg-2 col-md-3 footer-links">
               <ul>
-                <li><a href="./services.php">Molestiae accusamus iure</a></li>
-                <li><a href="./services.php">Excepturi dignissimos</a></li>
-                <li><a href="./services.php">Suscipit distinctio</a></li>
-                <li><a href="./services.php">Dilecta</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
-                <li><a href="./services.php">Sit quas consectetur</a></li>
+                <li><a href="./services.php">Гастродуодинит</a></li>
+                <li><a href="./services.php">Гастроэнтероколит</a></li>
+                <li><a href="./services.php">Хронический</a></li>
+                <li><a href="./services.php">Запор</a></li>
+                <li><a href="./services.php">Дисбактериоз</a></li>
+                <li><a href="./services.php">Холецистит</a></li>
+                <li><a href="./services.php">Қулоқ қичиши, битиб қолиши</a></li>
+                <li><a href="./services.php">Йутал</a></li>
+                <li><a href="./services.php">Катталар ва болалар консультацияси</a></li>
+                <li><a href="./services.php">Ясси оёқлилик</a></li>
+                <li><a href="./services.php">Сон чаноқ дисплазияси</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
 
-            <div class="col-lg-2 col-md-3 footer-links">  
+            <div class="col-lg-2 col-md-3 footer-links">
               <ul>
-                <li><a href="./services.php">Ipsam</a></li>
-                <li><a href="./services.php">Laudantium dolorum</a></li>
-                <li><a href="./services.php">Dinera</a></li>
-                <li><a href="./services.php">Trodelas</a></li>
-                <li><a href="./services.php">Flexo</a></li>
-                <li><a href="./services.php">Flexo</a></li>
+                <li><a href="./services.php">Гепатит</a></li>
+                <li><a href="./services.php">Пиолонефрит</a></li>
+                <li><a href="./services.php">Токсикодермия</a></li>
+                <li><a href="./services.php">ХОБЛ</a></li>
+                <li><a href="./services.php">Ревматизм</a></li>
+                <li><a href="./services.php">Гайморит</a></li>
+                <li><a href="./services.php">Сон чаноқ бўғимидан чала ва тўлиқ чиқишлар</a></li>
+                <li><a href="./services.php">Рахит (кўкрак қафаси ва оёқларда)</a></li>
+                <li><a href="./services.php">X ёки O образний қийшайишлар</a></li>
+                <li><a href="./services.php">Умуртқа поғонаси қийшайишлари (сколёз, лордоз, кифоз)</a></li>
+                <li><a href="./services.php">Гельминтозы кишечника- лямблиоз, аскаридоз кишечника, энтеробиоз и др</a></li>
               </ul>
             </div>
             <!-- End footer links column-->
@@ -1075,7 +911,7 @@
       <div class="footer-legal text-center position-relative">
         <div class="container">
           <div class="copyright">
-            &copy; Авторские права <strong><span>EVOMED</span></strong
+            &copy; Авторские права <strong><span> EVOMED</span></strong
             >. Все права защищены
           </div>
         </div>

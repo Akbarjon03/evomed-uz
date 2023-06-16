@@ -78,21 +78,11 @@
           <div class="col-lg-7">
             <h2>Evomed - детская клиника</h2>
             <div class="our-story">
-<<<<<<< HEAD
-              <h4>Основана в 1988г.</h4>
-              <h3>Our Story</h3>
-              <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
-=======
-              <h4></h4>
-              <h3>О нас</h3>
-              <p>
-                Детская клиника Evomed была основана в 2020 году Камалом Набиевым.
-              </p>
->>>>>>> 221cf36869f2a596bb6bb03f0c7da15412d01713
+
               <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Получите бесплатные консультации ответственных и опытных врачей!</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Оставьте своих детей, которые являются смыслом вашей жизни, в надежных руках!</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Клиника с современными условиями!</span></li>
               </ul>
               <p>
 
@@ -103,7 +93,6 @@
               </div>
             </div>
           </div>
-
         </div>
 
       </div>
@@ -120,7 +109,7 @@
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="999" data-purecounter-duration="60" class="purecounter"></span>
                 <p>Счастливых клиентов</p>
               </div>
             </div>
@@ -130,7 +119,7 @@
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="57" data-purecounter-duration="15" class="purecounter"></span>
                 <p>Услуг</p>
               </div>
             </div>
@@ -140,7 +129,7 @@
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-headset color-green flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="689" data-purecounter-duration="60" class="purecounter"></span>
                 <p>Часы поддержки</p>
               </div>
             </div>
@@ -150,13 +139,8 @@
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-people color-pink flex-shrink-0"></i>
               <div>
-<<<<<<< HEAD
-                <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Врачей специалистов</p>
-=======
-                <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="5" class="purecounter"></span>
                 <p>Врачи</p>
->>>>>>> 221cf36869f2a596bb6bb03f0c7da15412d01713
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -249,7 +233,7 @@
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor2.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -257,7 +241,8 @@
               <h4>Турабаева Феруза Корабаевна</h4>
               <p>Квалифицированный педиатр с 26-летним стажем</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
             <div class="member-img">
@@ -279,7 +264,7 @@
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -287,9 +272,10 @@
               <h4>Мадаминова Нилуфар Рустамбаевна</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -297,9 +283,10 @@
               <h4>Чориев Жамшид Фарходович</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -307,9 +294,10 @@
               <h4>Курбонов Умид Хусенович</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -317,9 +305,10 @@
               <h4>Норбутаев Маьруф Фарходович</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -327,9 +316,10 @@
               <h4>Ниёзкулов Достон Усмонович</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -337,9 +327,10 @@
               <h4>Хидоев Улугбек  Нажмиддинович</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
 
-          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
               <img src="assets/img/hero-carousel/img/doctor3.jpg" class="img-fluid" alt="rasm">
             </div>
@@ -347,112 +338,132 @@
               <h4>Акимова Зебо Тагоновна</h4>
               <p>Педиатр</p>
             </div>
-          </div><!-- End Team Member -->
+          </div> -->
+          <!-- End Team Member -->
         </div>
       </div>
-    </section><!-- End Our Team Section -->
+    </section>
+    <!-- End Our Team Section -->
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
-    <div class="footer-content position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>Эвомед</h3>
-              <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                Юнусабад, <br />
-                улица Ахмеда Дониша 47а<br /></a><br />
-                <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a
-                  href="https://www.tiktok.com/@evomed_uz"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-tiktok"></i
-                ></a>
-                <a
-                  href="https://www.facebook.com/evomeduz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-facebook"></i
-                ></a>
-                <a
-                  href="https://www.instagram.com/evomed_uz/"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-instagram"></i
-                ></a>
-                <a
-                  href="https://www.youtube.com/@evomed_uz8797"
-                  class="d-flex align-items-center justify-content-center"
-                  ><i class="bi bi-youtube"></i
-                ></a>
+      <div class="footer-content position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="footer-info">
+                <h3>Evomed</h3>
+                <p>
+                  <a href="https://yandex.com/maps/-/CCUczPrDGD">
+                    Юнусабад, <br />
+                    улица Ахмеда Дониша 47а<br /></a
+                  ><br />
+                  <strong>Номер телефона:</strong
+                  ><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                </p>
+                <div class="social-links d-flex mt-3">
+                  <a
+                    href="https://www.tiktok.com/@evomed_uz"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-tiktok"></i
+                  ></a>
+                  <a
+                    href="https://www.facebook.com/evomeduz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-facebook"></i
+                  ></a>
+                  <a
+                    href="https://www.instagram.com/evomed_uz/"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-instagram"></i
+                  ></a>
+                  <a
+                    href="https://www.youtube.com/@evomed_uz8797"
+                    class="d-flex align-items-center justify-content-center"
+                    ><i class="bi bi-youtube"></i
+                  ></a>
+                </div>
               </div>
             </div>
-          </div>
-          <!-- End footer info column-->
+            <!-- End footer info column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
-            <ul>
-              <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-              <li><a href="./about.php">ВРАЧИ</a></li>
-              <li><a href="./services.php">УСЛУГИ</a></li>
-              <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-              <li><a href="./blog.php">НОВОСТИ</a></li>
-              <li><a href="./contact.php">АДРЕС</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
+              <ul>
+                <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
+                <li><a href="./about.php">ВРАЧИ</a></li>
+                <li><a href="./services.php">УСЛУГИ</a></li>
+                <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
+                <li><a href="./blog.php">НОВОСТИ</a></li>
+                <li><a href="./contact.php">АДРЕС</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>УСЛУГИ</h4>
-            <ul>
-              <li><a href="./services.php">Web Design</a></li>
-              <li><a href="./services.php">Web Development</a></li>
-              <li><a href="./services.php">Product Management</a></li>
-              <li><a href="./services.php">Marketing</a></li>
-              <li><a href="./services.php">Graphic Design</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <h4>УСЛУГИ</h4>
+              <ul>
+                <li><a href="./services.php">Бронхит</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Трахеит</a></li>
+                <li><a href="./services.php">Пневмония</a></li>
+                <li><a href="./services.php">Бронхеолит</a></li>
+                <li><a href="./services.php">Фронтит</a></li>
+                <li><a href="./services.php">Оғиздан нохуш хид келиши</a></li>
+                <li><a href="./services.php">Сурункали тонзиллитни даволаш</a></li>
+                <li><a href="./services.php">Ларингит</a></li>
+                <li><a href="./services.php">Аллергик тумов</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <ul>
-              <li><a href="./services.php">Molestiae accusamus iure</a></li>
-              <li><a href="./services.php">Excepturi dignissimos</a></li>
-              <li><a href="./services.php">Suscipit distinctio</a></li>
-              <li><a href="./services.php">Dilecta</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-            </ul>
-          </div>
-          <!-- End footer links column-->
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гастродуодинит</a></li>
+                <li><a href="./services.php">Гастроэнтероколит</a></li>
+                <li><a href="./services.php">Хронический</a></li>
+                <li><a href="./services.php">Запор</a></li>
+                <li><a href="./services.php">Дисбактериоз</a></li>
+                <li><a href="./services.php">Холецистит</a></li>
+                <li><a href="./services.php">Қулоқ қичиши, битиб қолиши</a></li>
+                <li><a href="./services.php">Йутал</a></li>
+                <li><a href="./services.php">Катталар ва болалар консультацияси</a></li>
+                <li><a href="./services.php">Ясси оёқлилик</a></li>
+                <li><a href="./services.php">Сон чаноқ дисплазияси</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">  
-            <ul>
-              <li><a href="./services.php">Ipsam</a></li>
-              <li><a href="./services.php">Laudantium dolorum</a></li>
-              <li><a href="./services.php">Dinera</a></li>
-              <li><a href="./services.php">Trodelas</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-            </ul>
+            <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Гепатит</a></li>
+                <li><a href="./services.php">Пиолонефрит</a></li>
+                <li><a href="./services.php">Токсикодермия</a></li>
+                <li><a href="./services.php">ХОБЛ</a></li>
+                <li><a href="./services.php">Ревматизм</a></li>
+                <li><a href="./services.php">Гайморит</a></li>
+                <li><a href="./services.php">Сон чаноқ бўғимидан чала ва тўлиқ чиқишлар</a></li>
+                <li><a href="./services.php">Рахит (кўкрак қафаси ва оёқларда)</a></li>
+                <li><a href="./services.php">X ёки O образний қийшайишлар</a></li>
+                <li><a href="./services.php">Умуртқа поғонаси қийшайишлари (сколёз, лордоз, кифоз)</a></li>
+                <li><a href="./services.php">Гельминтозы кишечника- лямблиоз, аскаридоз кишечника, энтеробиоз и др</a></li>
+              </ul>
+            </div>
+            <!-- End footer links column-->
           </div>
-          <!-- End footer links column-->
         </div>
       </div>
-    </div>
 
-    <div class="footer-legal text-center position-relative">
-      <div class="container">
-        <div class="copyright">
-          &copy; Авторские права <strong><span>UIS</span></strong
-          >. Все права защищены
+      <div class="footer-legal text-center position-relative">
+        <div class="container">
+          <div class="copyright">
+            &copy; Авторские права <strong><span> EVOMED</span></strong
+            >. Все права защищены
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
+    </footer>
   <!-- End Footer -->
 
   <!-- <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>  -->

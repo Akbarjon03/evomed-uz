@@ -71,57 +71,8 @@
     <section id="blog" class="blog">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-4 posts-list">
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
 
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">December 12</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h3>
-                <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                </p>
-              </div>
-
-            </div>
-          </div><!-- End post list item -->
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">March 19</span>
-              </div>
-              <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Nisi magni odit consequatur autem nulla dolorem</h3>
-                <p>
-                  Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum voluptatum et. Quo libero rerum voluptatem pariatur nam.
-                </p>
-              </div>
-            </div>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/hero-carousel/evomed-logo.jpg" class="img-fluid" alt="">
-                <span class="post-date">June 24</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
-                <p>
-                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
-                </p>
-              </div>
-
-            </div>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
+          <!-- <div class="col-xl-4 col-md-6">
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
@@ -138,9 +89,10 @@
               </div>
 
             </div>
-          </div><!-- End post list item -->
+          </div> -->
+          <!-- End post list item -->
 
-          <div class="col-xl-4 col-md-6">
+          <!-- <div class="col-xl-4 col-md-6">
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
@@ -156,9 +108,10 @@
                 </p>
               </div>
             </div>
-          </div><!-- End post list item -->
+          </div> -->
+          <!-- End post list item -->
 
-          <div class="col-xl-4 col-md-6">
+          <!-- <div class="col-xl-4 col-md-6">
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
@@ -174,10 +127,12 @@
                 </p>
               </div>
             </div>
-          </div><!-- End post list item -->
+          </div> -->
+          <!-- End post list item -->
         </div><!-- End blog posts list -->
       </div>
-    </section><!-- End Blog Section -->
+    </section>
+    <!-- End Blog Section -->
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -187,11 +142,11 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>Эвомед</h3>
+              <h3>EVOMED</h3>
               <p><a href="https://yandex.com/maps/-/CCUczPrDGD">
-                Юнусабад, <br />
-                улица Ахмеда Дониша 47а<br /></a><br />
-                <strong>Номер телефона:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
+                Yunusobod, <br />
+                Ahmad Donish 47a<br /></a><br />
+                <strong>Telefon raqam:</strong><a href="tel:+998 55 500 3200"> +998 55 500 3200</a><br />
               </p>
               <div class="social-links d-flex mt-3">
                 <a
@@ -220,52 +175,66 @@
           <!-- End footer info column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>ПОЛЕЗНЫЕ ССЫЛКИ</h4>
+            <h4>FOYDALI LINKLAR</h4>
             <ul>
-              <li><a href="./index.php">ГЛАВНАЯ СТРАНИЦА</a></li>
-              <li><a href="./about.php">ВРАЧИ</a></li>
-              <li><a href="./services.php">УСЛУГИ</a></li>
-              <li><a href="./projects.php">ДИАГНОСТИКА</a></li>
-              <li><a href="./blog.php">НОВОСТИ</a></li>
-              <li><a href="./contact.php">АДРЕС</a></li>
+              <li><a href="./index.php">BOSH SAHIFA</a></li>
+              <li><a href="./about.php">SHIFOKORLAR</a></li>
+              <li><a href="./services.php">XIZMATLAR</a></li>
+              <li><a href="./projects.php">DIAGNOSTIKA</a></li>
+              <li><a href="./blog.php">YANGILIKLAR</a></li>
+              <li><a href="./contact.php">MANZIL</a></li>
             </ul>
           </div>
           <!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>УСЛУГИ</h4>
+            <h4>XIZMATLAR</h4>
             <ul>
-              <li><a href="./services.php">Web Design</a></li>
-              <li><a href="./services.php">Web Development</a></li>
-              <li><a href="./services.php">Product Management</a></li>
-              <li><a href="./services.php">Marketing</a></li>
-              <li><a href="./services.php">Graphic Design</a></li>
+                <li><a href="./services.php">Bronxit</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Traxeit</a></li>
+                <li><a href="./services.php">Zotiljam</a></li>
+                <li><a href="./services.php">Bronxiolit</a></li>
+                <li><a href="./services.php">Frontit</a></li>
+                <li><a href="./services.php">Og'izdan noxush hid kelishi</a></li>
+                <li><a href="./services.php">Surunkali tonzillitni davolash</a></li>
+                <li><a href="./services.php">Laringit</a></li>
+                <li><a href="./services.php">Allergik tumov</a></li>
             </ul>
           </div>
           <!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <ul>
-              <li><a href="./services.php">Molestiae accusamus iure</a></li>
-              <li><a href="./services.php">Excepturi dignissimos</a></li>
-              <li><a href="./services.php">Suscipit distinctio</a></li>
-              <li><a href="./services.php">Dilecta</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-              <li><a href="./services.php">Sit quas consectetur</a></li>
-            </ul>
-          </div>
+              <ul>
+                <li><a href="./services.php">Gastroduodenit</a></li>
+                <li><a href="./services.php">Gastroenterokolit</a></li>
+                <li><a href="./services.php">Surunkali qabziyat</a></li>
+                <li><a href="./services.php">Disbakterioz</a></li>
+                <li><a href="./services.php">Xoletsistit</a></li>
+                <li><a href="./services.php">Quloq qichishi, bitib qolishi</a></li>
+                <li><a href="./services.php">Yo'tal</a></li>
+                <li><a href="./services.php">Kattalar va bolalar konsultatsiysi</a></li>
+                <li><a href="./services.php">Tassi oyoqlik</a></li>
+                <li><a href="./services.php">Son qanoq displazi</a></li>
+              </ul>
+            </div>
           <!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">  
-            <ul>
-              <li><a href="./services.php">Ipsam</a></li>
-              <li><a href="./services.php">Laudantium dolorum</a></li>
-              <li><a href="./services.php">Dinera</a></li>
-              <li><a href="./services.php">Trodelas</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-              <li><a href="./services.php">Flexo</a></li>
-            </ul>
-          </div>
+          <div class="col-lg-2 col-md-3 footer-links">
+              <ul>
+                <li><a href="./services.php">Gepatit</a></li>
+                <li><a href="./services.php">Piyelonefrit</a></li>
+                <li><a href="./services.php">Toksikoderma</a></li>
+                <li><a href="./services.php">HOBL</a></li>
+                <li><a href="./services.php">Revmatizm</a></li>
+                <li><a href="./services.php">Sinusit</a></li>
+                <li><a href="./services.php">Son chanoq bo'g'imidagi chala va to'liq chiqishlar</a></li>
+                <li><a href="./services.php">Raxit</a></li>
+                <li><a href="./services.php">X yoki O obrazniy qiyshayishlar</a></li>
+                <li><a href="./services.php">Umurtqa pog'onasi qiyshayisi</a></li>
+                <li><a href="./services.php">Ichak gelmintozlari - giardiaz, ichak askariozi, enterobioz va boshqalar</a></li>
+              </ul>
+            </div>
           <!-- End footer links column-->
         </div>
       </div>
@@ -274,8 +243,8 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Авторские права <strong><span>UIS</span></strong
-          >. Все права защищены
+          &copy;Mualliflik huquqi <strong><span>EVOMED</span></strong
+          >. Barcha huquqlar himoyalangan
         </div>
       </div>
     </div>
