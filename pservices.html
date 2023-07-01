@@ -38,9 +38,10 @@
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.html" class="navbar-brand logo d-flex align-items-center">
         <h1>Evomed<span>.</span></h1>
-      </a>
+        <!-- <img src="/assets/img/hero-carousel/logo.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"> -->
+      </a> 
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
@@ -53,10 +54,11 @@
           <li><a href="blog.html">Новости</a></li>
           <li><a href="contact.html">Адрес</a></li>
         </ul>
-      </nav><!-- .navbar -->
+      </nav>
 
     </div>
-  </header><!-- End Header -->
+  </header>
+  <!-- End Header -->
 
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
@@ -70,37 +72,38 @@
         </ol>
       </div>
     </div><!-- End Breadcrumbs -->
-<br>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <div class="thumbnail">
-              <img src="./assets/img/hero-carousel/img/doctor1.jpg" alt="Lights" style="width:100%">
-              <div class="caption">
-                <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
-              </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="thumbnail">
-              <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
-              <div class="caption">
-                <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="thumbnail">
-              <img src="/w3images/fjords.jpg" alt="Fjords" style="width:100%">
-              <div class="caption">
-                <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
-              </div>
-            </a>
-          </div>
-        </div>
+
+    <br>
+
+    <div class="container" data-aos="fade-up">
+      <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"
+        data-portfolio-sort="original-order">
+        <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="portfolio-content h-100">
+              <img src="assets/img/pediatr/ped_2.jpg" class="img-fluid" alt="">
+            </div>
+          </div><!-- End Projects Item -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="portfolio-content h-100">
+              <img src="assets/img/pediatr/ped_1.jpg" class="img-fluid" alt="">
+            </div>
+          </div><!-- End Projects Item -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="portfolio-content h-100">
+              <img src="assets/img/pediatr/ped_3.jpg" class="img-fluid" alt="">
+            </div>
+          </div><!-- End Projects Item -->
+        </div><!-- End Projects Container -->
       </div>
     </div>
+
+
+
+
     <!-- ======= Service Details Section ======= -->
     <section id="service-details" class="service-details">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
